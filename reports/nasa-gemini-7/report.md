@@ -62,7 +62,7 @@ Gemini 7 的 BOGEY 事件在 1965 年是冷戰高峰期的敏感事件。
 
 BOGEY 在當時的 USAF 軍語裡是「未識別、可能敵對」目標。Borman 是空軍上校借調 NASA，使用這個詞代表他當下的判斷不是「自然天體」也不是「己方裝備」。
 
-Houston 的回應「Is that the booster or is that a natural sighting?」反映了 1965 年地面控制中心對在軌物體的兩個預設分類：自家 booster（已知殘骸）+ 自然天體（流星、行星、星座）。Borman 的回答否定了這兩個分類。
+Houston 的回應「Is that the booster or is that a natural sighting?」把在軌物體分成兩類：自家 booster（已知殘骸）+ 自然天體（流星、行星、星座）。Borman 的回答否定了這兩個分類。
 
 Lovell 隨後給的描述提供關鍵物理線索：
 
