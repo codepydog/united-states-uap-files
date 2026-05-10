@@ -9,7 +9,7 @@
 
 > 由 Claude Opus 4.7 整理
 
-![](https://www.war.gov/medialink/ufo/release_1/thumbnail/fbi-photo-a4.jpg)
+![](thumb.jpg)
 
 ## 摘要
 

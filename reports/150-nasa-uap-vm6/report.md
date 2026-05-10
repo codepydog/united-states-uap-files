@@ -10,7 +10,7 @@
 
 > 由 Claude Opus 4.7 整理
 
-![](https://www.war.gov/medialink/ufo/release_1/thumbnail/nasa-uap-vm6-apollo-17-1972.jpg)
+![](thumb.jpg)
 
 ## 摘要
 
