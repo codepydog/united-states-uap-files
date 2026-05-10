@@ -1,1 +1,0 @@
-# NASA-UAP-VM1, Apollo 12, 1969

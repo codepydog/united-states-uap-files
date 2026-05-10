@@ -1,1 +1,0 @@
-# DOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023

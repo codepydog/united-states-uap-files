@@ -1,1 +1,0 @@
-# NASA-UAP-VM5, Apollo 12, 1969

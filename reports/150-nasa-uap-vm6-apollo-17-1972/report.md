@@ -1,1 +1,0 @@
-# NASA-UAP-VM6, Apollo 17, 1972
