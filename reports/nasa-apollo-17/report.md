@@ -46,7 +46,7 @@ DOW 卷宗描述明確寫 open investigation，沒給結論。
 - 上方 CONFIDENTIAL 印章，已被一道粗黑線劃掉
 - 右上手寫「264 H」（內部歸檔索引）
 - 中央左側有一塊垂直穿孔線（原始裝訂邊緣）
-- 標題後面標 (U) — 為 unclassified content marker，告知讀者本段資訊本身不機密
+- 標題後面標 (U)，為 unclassified content marker，告知讀者本段資訊本身不機密
 - 下方 NOTICE 段：「90 days from the published date」自動解密條款
 - 左下圓形地球+箭頭 stamp 是 NASA 內部 indexing routing stamp，旁邊手寫填入分類欄位
 - 右下紅框 DECLASSIFIED 章：E.O. 13526, Sec 3.3(a)，Date: 5/8/2026，正是 DOW 公開日
@@ -89,12 +89,12 @@ Tape 46/5，GET 02 18 44 40（任務第 2 天 18:44:40）。
 **CDR Cernan**：「好，我只是想跟你們講我們看到的，沒別的意思。」
 **CC**：「Roger.」
 **CDR**：「但我可以說一件事，毫無疑問它們在那裡。上次任務我搞不好就沒在找、也沒注意。可能它們也在，但我因為其他事忽略了。但它們真的在。」
-**LMP Schmitt**：「OK，下面那些 flash bugs，或叫 flashbulbs 比較對 — 第 50 格底片。我剛拍了四張，兩張側邊兩張底部，呈現 ALFMED 的位置，每組各有一張對焦在 ALFMED 上，另一組對焦在 struts。」
+**LMP Schmitt**：「OK，下面那些 flash bugs，或叫 flashbulbs 比較對，第 50 格底片。我剛拍了四張，兩張側邊兩張底部，呈現 ALFMED 的位置，每組各有一張對焦在 ALFMED 上，另一組對焦在 struts。」
 **CC**：「Roger, Jack.」
 
 下一段（**整段被 DOW 螢光筆標黃**）：
 
-**LMP**：「然後等你們有空的時候，請哪個人幫你們算 S-IVB 在哪。我覺得我看到她了——在我們後上方，相對於地球跟我們的航跡。」
+**LMP**：「然後等你們有空的時候，請哪個人幫你們算 S-IVB 在哪。我覺得我看到她了，在我們後上方，相對於地球跟我們的航跡。」
 **CC**：「FIDO 剛才出去把自己槍斃了，但我們會去處理。」
 **LMP**：「喔不用緊張，沒事。我只是想說你們搞不好臨時有想法。」
 **CC**：「Jack，這事比較好笑的是，他們真的一直在算 S-IVB 的撞擊點，這對他們來說是個很麻煩的問題。」
@@ -103,7 +103,7 @@ Tape 46/5，GET 02 18 44 40（任務第 2 天 18:44:40）。
 
 S-IVB = Saturn V 第三節，Apollo 17 任務中故意撞擊月球做地震實驗。FIDO（Flight Dynamics Officer）負責追蹤撞擊軌跡。Schmitt 在艙內用單筒望遠鏡視覺鎖定它，成為 FIDO 的備用 tracking 來源。
 
-DOW 為什麼標這段：表面上看是太空人視覺辨認 booster，但「I think I've got her spotted」這句話的物理意義其實也適用於後續 Schmitt 看到的所有不明物體 — 他作為地質學博士有足夠光學辨識能力分辨人造物與自然天體。
+DOW 為什麼標這段：表面上看是太空人視覺辨認 booster，但「I think I've got her spotted」這句話的物理意義其實也適用於後續 Schmitt 看到的所有不明物體，他作為地質學博士有足夠光學辨識能力分辨人造物與自然天體。
 
 ## Schmitt 進入西邊 Procellarum，準備過 Grimaldi
 
@@ -113,7 +113,7 @@ Tape 60/1，GET 03 15 33 44（任務第 3 天 15:33:44）。
 
 Schmitt 連續地形描述：
 
-**LMP**：「就我們的解讀 — 如果可以從前面任務帶回的樣本外推。」
+**LMP**：「就我們的解讀，如果可以從前面任務帶回的樣本外推。」
 **LMP**：「驚人的是現在 Procellarum 西邊的高地仍然是亮的，新鮮 crater 跟正常高地的對比在地光下還是非常明顯，特別是沿著相對地球的零相位點。Rima Gamma 現在離我們橢圓軌跡的 horseshoe 越來越近，靠 horseshoe 較大、較西邊那一端；那條暗色 horseshoe 在這個光下很清楚。它指向西，或西北，整個 strange feature 的走向都這樣。我覺得 Ron 接下來幾天有很好的機會研究 mare 內部跟月面其他地方那些淺色 swirls。我們在 Mare Marginis 跟 Mare Crisium 東邊看得很清楚，他應該也看得到。」
 **CC**：「Okeydoke.」
 
@@ -128,7 +128,7 @@ GET 03 15 36 35：
 
 Schmitt 用 「we're just about to fly a little bit south of Grimaldi」 鋪陳了下一頁的事件位置。
 
-關鍵：Grimaldi 是月球西緣的暗色 crater，Apollo 軌道從東往西飛時 Grimaldi 是黎明線剛過的區域 — 也就是地形剛被斜射陽光照亮，最容易看到 transient 現象的時段。
+關鍵：Grimaldi 是月球西緣的暗色 crater，Apollo 軌道從東往西飛時 Grimaldi 是黎明線剛過的區域，也就是地形剛被斜射陽光照亮，最容易看到 transient 現象的時段。
 
 ## Schmitt 親眼看到月面閃光（DOW 螢光筆全段標黃）
 
@@ -141,7 +141,7 @@ Tape 60/2 接續上頁。整段 DOW 用螢光筆標黃。
 **CC**：「Roger.」
 **LMP Schmitt**：「那是小型 crater。在 Mare Procellarum 最靠近 Grimaldi 那邊有兩條 arcuate rilles，看起來剖面可能是 V 形。我相信我們之前在照片上看比這裡看清楚很多。那些 rille 的走向看起來確實延伸進高地。」
 **CC**：「Okay.」
-**LMP**：「然後在那塊 mare 海灣的北邊 — 北邊 — 等一下打斷一下。」
+**LMP**：「然後在那塊 mare 海灣的北邊，北邊，等一下打斷一下。」
 
 GET 03 15 38 09：
 
@@ -151,7 +151,7 @@ GET 03 15 38 09：
 **CC**：「OK 我們會查。」
 **LMP**：「就在那個 crater 旁邊，一個明亮的小 flash。看到 Grimaldi 邊緣那個 crater 沒？再它北邊還有一個。北邊那個比較銳利的位置，有一條細細的光痕。」
 **CC**：「能不能在地圖上你看到的位置打 X？」
-**LMP**：「我會持續找 — 是的，我們會。我本來就計畫要找這類東西。現在開始看到 Orientale 的邊緣了，Gordy。在西邊很遠。Hey，Gene 你隨時喊我 — — 」
+**LMP**：「我會持續找，是的，我們會。我本來就計畫要找這類東西。現在開始看到 Orientale 的邊緣了，Gordy。在西邊很遠。Hey，Gene 你隨時喊我（中斷）」
 
 GET 03 15 39 46：
 
@@ -169,8 +169,8 @@ GET 03 15 39 46：
 值得注意：
 
 1. Schmitt 看到的不是一個 flash，而是 **三個現象**：明亮的小 flash + 鄰近 crater 一個更銳利的點 + 一條細細的光痕（thin streak of light）
-2. 他主動建議用 seismometer 交叉驗證 — 如果是隕石撞擊，地震儀應該收得到信號
-3. 他補了「我本來就計畫要找這類東西」 — Apollo 17 機組行前訓練包含 transient lunar phenomenon 觀察任務
+2. 他主動建議用 seismometer 交叉驗證，如果是隕石撞擊，地震儀應該收得到信號
+3. 他補了「我本來就計畫要找這類東西」，Apollo 17 機組行前訓練包含 transient lunar phenomenon 觀察任務
 
 CC（Gordon Fullerton）的「能不能在地圖上打 X」是 NASA 第一次正式要求太空人即時定位月面異常。
 
@@ -178,13 +178,13 @@ CC（Gordon Fullerton）的「能不能在地圖上打 X」是 NASA 第一次正
 
 VM6 三點藍光與 Schmitt Grimaldi flash 是兩個獨立但屬同一類別的觀測。
 
-VM6 是攝影底片留下的證據，事後在地球上才被人發現。Schmitt flash 是即時口頭報告，沒有同步影像紀錄。兩者都是月面附近不明發光體 — 但前者地點不明、時間不明、相機快門期間記錄；後者地點明確（Grimaldi 北邊）、時間明確（GET 03 15 38 09）、有 seismometer 交叉驗證機會。
+VM6 是攝影底片留下的證據，事後在地球上才被人發現。Schmitt flash 是即時口頭報告，沒有同步影像紀錄。兩者都是月面附近不明發光體，但前者地點不明、時間不明、相機快門期間記錄；後者地點明確（Grimaldi 北邊）、時間明確（GET 03 15 38 09）、有 seismometer 交叉驗證機會。
 
 Schmitt 觀察到三個現象（flash + crater 邊緣銳利點 + 光痕）是 transient lunar phenomenon (TLP) 學界已知的特徵組合。
 
 學術界對 TLP 的解釋分四類：
 
-1. 微隕石撞擊（impact flash） — 後續 NELIOTA 計畫 2017 年起在地球望遠鏡確認過數百次
+1. 微隕石撞擊（impact flash），後續 NELIOTA 計畫 2017 年起在地球望遠鏡確認過數百次
 2. 月震帶來的 outgassing 釋放氣體 + 太陽 UV 激發冷光
 3. 月面 regolith 因為剛進入陽光區的熱衝擊產生靜電放電
 4. 觀察者視覺幻覺
@@ -197,7 +197,7 @@ ALFMED 實驗的負面結果是這份 release 最有教學意義的部分。
 
 但這個結論不能套到 Schmitt Grimaldi flash 上。Schmitt 是清醒、未戴眼罩、透過 LM 窗戶往月面看。flash 來源在艙外幾百公里處的月面，不是視網膜被粒子擊中。
 
-換句話說：同一份 release 同時收兩種現象 — 一種被 ALFMED 解掉（cabin flashes = 視網膜現象），一種沒被解掉（lunar surface flash = 真實月面光點）。
+換句話說：同一份 release 同時收兩種現象，一種被 ALFMED 解掉（cabin flashes = 視網膜現象），一種沒被解掉（lunar surface flash = 真實月面光點）。
 
 DOW 在 transcript 上用螢光筆主動標出 Schmitt 兩段話（S-IVB 鎖定 + Grimaldi flash），不是 OCR 自動標的，是人工標的。意思是 DOW 內部有人讀過這份 transcript，特別認為這兩段需要被讀者看到。
 
