@@ -2,86 +2,79 @@
 
 ![page-1](page-1.jpg)
 
-2020-09-04 21:09Z，一架 MQ-9 Reaper 無人機在亞丁灣上空 23,819 英呎，IR 感測器抓到一個圓形、**在 black-hot 模式下顯示為亮白色**的物體。
+2020-09-04 21:09Z，一架 MQ-9 Reaper 無人機在亞丁灣上空 23,819 英呎，IR 感測器抓到一個圓形物體，在 black-hot 模式下顯示為亮白色。
 
-也就是說：這個物體比周圍環境**冷**。
+也就是說，這個物體比周圍環境冷。
 
-冷物體以 277 mph（446 km/h）速度沿 168° 方向飛行，**過程中做了幾次突然的方向變化**，被持續追蹤 8 分鐘。
+冷物體以 277 mph（446 km/h）速度沿 168° 方向飛行，過程中做了幾次突然的方向變化，被持續追蹤 8 分鐘。
 
 ## 172 ATKS 是誰
 
-報告右上欄：**Squadron: 172 ATKS**。
+報告右上欄：Squadron 172 ATKS。
 
-**172nd Attack Squadron**「Six-Pack」，密西根州空軍國民兵第 110 聯隊（110th Wing, Battle Creek, MI），操作 MQ-9A Reaper 無人攻擊機。
+172nd Attack Squadron「Six-Pack」，密西根州空軍國民兵第 110 聯隊（110th Wing, Battle Creek, MI），操作 MQ-9A Reaper 無人攻擊機。
 
-2019-2020 年期間部署在美中央司令部（USCENTCOM）轄區，主要任務是葉門 / 索馬利亞 / 紅海 / 亞丁灣的 ISR（情報、監視、偵察）。
+2019-2020 年期間部署在美中央司令部（USCENTCOM）轄區，主要任務是葉門/索馬利亞/紅海/亞丁灣的 ISR（情報、監視、偵察）。
 
-這份報告的 Crew Position 欄填「**Other**」（不是 Pilot），意味是 sensor operator 或地面控制站人員提交。MQ-9 由地面控制站 (GCS) 遠端操作，飛行員與感測器操作員都在美國本土，不在現場。
-
-**這是 D 系列首份明確的 MQ-9 Reaper UAP 觀測報告**。
+報告的 Crew Position 欄填「Other」（不是 Pilot），通常是 sensor operator 或地面控制站人員提交。MQ-9 由地面控制站（GCS）遠端操作，飛行員與感測器操作員都在美國本土，不在現場。
 
 ## 「Black Hot」與「冷物體」
 
 紅外感測器有兩種顯示模式：
 
-- **White Hot**：熱的東西顯示白色，冷的顯示黑色
-- **Black Hot**：熱的東西顯示黑色，冷的顯示白色
+- White Hot：熱顯示白色，冷顯示黑色
+- Black Hot：熱顯示黑色，冷顯示白色
 
-報告原文：「The IR sensor was set to **black hot** and the object in question was a **bright white**」。
+報告原文：「The IR sensor was set to black hot and the object in question was a bright white」。
 
-Black hot 模式下，亮白色 = 物體比背景**冷**。
+Black hot 模式下，亮白色代表物體比背景冷。
 
-這在飛行器觀測中很反常。大部分有引擎的飛行器（飛機、巡弋飛彈、火箭）會在 IR 下顯示為**亮熱**訊號，因為引擎排熱。冷物體可能是：
+這在飛行器觀測中反常。多數有引擎的飛行器（飛機、巡弋飛彈、火箭）在 IR 下會是亮熱訊號（引擎排熱）。冷物體的可能性：
 
-1. **無引擎平台**：滑翔機、無動力載具（但 277 mph 8 分鐘維持飛行不可能無動力）
-2. **冷卻技術**：刻意設計成低熱訊號的隱形 UAV（如 RQ-170）
-3. **高空氣球**：氣球本身會與環境溫度平衡，但 277 mph 速度遠超氣球漂移速度
-4. **UAP**：D 系列其他多份報告也提到「無 IR 熱訊號」（D3、D4、D6 等）
+1. 無引擎平台：滑翔機、無動力載具。但 277 mph 持續 8 分鐘，無動力不可能。
+2. 冷卻技術：低熱訊號的隱形 UAV（如 RQ-170）。
+3. 高空氣球：氣球溫度與環境平衡，但 277 mph 速度遠超氣球漂移。
+4. UAP：D 系列其他報告也提到「無 IR 熱訊號」（D3、D4 等）。
 
 ## 突然轉向
 
-報告原文：「It made a **few abrupt directional changes** during the 8 minute contact」。
+報告原文：「It made a few abrupt directional changes during the 8 minute contact」。
 
-「Abrupt directional changes」是 UAP 觀測中關鍵敘述之一，曾出現在：
+「Abrupt directional changes」在 UAP 觀測中出現過：
 
 - 2004 Tic Tac（Fravor 描述「向上加速消失」）
 - 2014-2015 Gimbal / Go Fast（Roll axis 旋轉）
 - D3 阿拉伯灣 2020（4 個物體 27 秒內 3 波出現）
 
-277 mph 在 23,800 英呎做突然方向變化，對應的 G 力取決於轉向半徑，但對任何傳統飛行器都會是高 G 機動。8 分鐘內做了「a few」次（至少 3-4 次）突然轉向，這個行為模式不符合：
+277 mph 在 23,800 英呎做突然方向變化，G 力取決於轉向半徑，但對傳統飛行器是高 G 機動。8 分鐘做了「a few」次（至少 3-4 次），這個行為不符合：
 
 - 巡弋飛彈（固定彈道）
 - 商業民航（緩和轉向）
-- 戰鬥機（會有對應的雷達 / IFF 訊號）
+- 戰鬥機（會有對應雷達/IFF 訊號）
 
 ## 感測器幾何
 
-報告中包含 MQ-9 的感測器幾何細節（可用來重建場景）：
+報告寫了 MQ-9 的感測器幾何，可以反推物體高度：
 
-- **HAT**（Height Above Target）: 23,819 ft（≈ 7,260 公尺）
-- **感測器角度**: -39 度（向下）
-- **斜距**: 6.17 NM（≈ 11.4 km）
-- **地面距離**: 8.81 km
+- HAT（Height Above Target）：23,819 ft（≈ 7,260 公尺）
+- 感測器角度：-39 度（向下）
+- 斜距：6.17 NM（≈ 11.4 km）
+- 地面距離：8.81 km
 
-幾何驗算：tan(39°) ≈ 0.81，所以高度差 / 地面距離 = 8.81 / 11.4 × sin(39°) = ... 實際上：
+驗算：高度差 = 11.4 × sin(39°) ≈ 7.18 km。物體實際高度 = 23,819 ft − 23,553 ft ≈ 266 ft ASL，離海面約 80 公尺。
 
-- 高度差（HAT 與物體高度差）= 11.4 × sin(39°) ≈ 7.18 km
-- 物體實際高度 = 23,819 ft - 23,553 ft ≈ 266 ft ASL（海平面以上 266 英呎）
-
-換句話說，**物體在離海面只有約 80 公尺的低空**。這在 D 系列中與 D55 的「sea-skim」描述類似——這類「低空高速 + IR 冷 + 突然轉向」組合在 D 系列中佔比相當高。
+低空高速 + IR 冷 + 突然轉向的組合，在 D55 sea-skim 描述也有類似 signature。
 
 ## MGRS 38P LT 是哪裡
 
-報告寫「MGRS location **38P LT** 7[redacted]20[redacted]」。
+報告寫「MGRS location 38P LT 7[redacted]20[redacted]」。
 
-MGRS（Military Grid Reference System）格號 **38P LT** 對應：
-
-- 38 P = UTM 經度區 38 北緯帶 P
+- 38P = UTM 經度區 38、北緯帶 P
 - LT = 100 km 網格（亞丁灣中央附近）
 
-範圍涵蓋亞丁灣中部、葉門海岸、吉布地與索馬利亞之間的水域。具體 7 位數座標被 1.4a 遮罩。
+涵蓋範圍是亞丁灣中部、葉門海岸、吉布地與索馬利亞之間的水域。7 位數座標被 1.4a 遮罩。
 
-這是 D 系列**第 3 個亞丁灣 / 紅海觀測**（D44 / D57 / 後續 D75）。
+D 系列在亞丁灣/紅海的觀測還有 D44（2020-10）、D75（2024-07，待完成）。
 
 ## D 系列 IR 冷物體統計
 
@@ -89,10 +82,10 @@ MGRS（Military Grid Reference System）格號 **38P LT** 對應：
 |---|---|---|---|
 | D3 | 2020 | F/A-18 (ATFLIR) | 多物體 cold |
 | D4 | 2020 | F/A-18 | 不明 |
-| **D57** | **2020-09-04** | **MQ-9 (Black-hot 顯示亮白)** | **cold** |
-| D60-D63 | 2020-08~10 | F/A-18 | 未解析 |
+| D57 | 2020-09-04 | MQ-9（Black-hot 顯示亮白）| cold |
+| D60-D63 | 2020-08~10 | MQ-9 / F-15E | 未明確 |
 
-D3 與 D57 都是「IR 看起來比周圍冷」，但平台不同（戰機 vs. 無人機），時間不同（早期 vs. 中期），地點不同（阿拉伯灣 vs. 亞丁灣）。**「IR cold」是 D 系列重要的共通 signature**。
+D3 與 D57 都是「IR 比周圍冷」，但平台不同（戰機 vs 無人機）、地點不同（阿拉伯灣 vs 亞丁灣）。IR cold 在 D 系列出現多次，但要稱「共通 signature」需要更多統計支持。
 
 ## 影像規格與來源
 

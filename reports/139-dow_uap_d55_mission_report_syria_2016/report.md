@@ -2,11 +2,11 @@
 
 ![page-1](page-1.jpg)
 
-2016 年 11 月 18 日 13:10Z，美國海軍 P-8A 海上巡邏機正在東地中海監視俄羅斯航艦戰鬥群（KCTG），EO/IR 感測器突然抓到一個低飛物體，沿著海面 sea-skim 模式以約 500 節速度往東南方移動，看起來像剛從俄艦發射的反艦飛彈。
+2016 年 11 月 18 日 13:10Z，美國海軍 P-8A 海上巡邏機正在東地中海監視俄羅斯航艦戰鬥群（KCTG），EO/IR 感測器抓到一個低飛物體，沿著海面以約 500 節速度往東南方移動，看起來像剛從俄艦發射的反艦飛彈。
 
 2 分鐘後，物體在 Latakia 西北 40 海里失去視覺。
 
-這份 mission report 是整個 DOW UAP 釋出包中**最早的軍方任務報告之一**（2016 年 11 月，比 D3-D8 阿拉伯灣那一批早 4 年）。
+D 系列釋出包裡，2020 年是 mission report 的密集年。D55 落在 2016，比那一批早 4 年，是現代軍方平台的 UAP 觀測中時間相對前面的一份（1996 D48 更早，但那是 USAF 空軍部報告，不是 mission report 格式）。
 
 ## KCTG 是誰
 
@@ -24,51 +24,52 @@ KCTG = Kuznetsov Carrier Task Group。
 
 報告原文：「sea skim mode traveling at approximately 500KTS on a southeasterly heading outbound from KCTG」。
 
-sea-skim = 海面掠飛，飛行高度低到只比海面高幾十英呎。這是反艦巡弋飛彈為了躲避雷達採用的標準飛行模式。500 節 ≈ 926 公里/時，**典型亞音速反艦飛彈速度**。
+sea-skim 是海面掠飛，飛行高度低到只比海面高幾十英呎。這是反艦巡弋飛彈為了躲避雷達常用的飛行模式。500 節 ≈ 926 公里/時，落在亞音速反艦飛彈的常見速度範圍。
 
-對比參考：
+對比同期俄系反艦飛彈速度：
+
 - Kalibr 3M-14 巡弋飛彈：~700 KTS
 - Klub-N 3M-54：發射段亞音速 ~530 KTS，末端 Mach 2.5
 - P-800 Oniks：超音速 Mach 2.5（~1500 KTS）
 
-500 節的速度與 Kalibr 系列亞音速版本最接近。
+500 節最接近 Kalibr 系列亞音速版本。
 
 ## 為什麼歸進 UAP 釋出包
 
 如果 P-8 看到的是俄羅斯試射飛彈，為什麼這份報告會在 2026 年的 UAP 解密釋出包裡？
 
-報告原文用詞是「**unidentified low-flying object**」和「**possible missile**」。整份報告的關鍵在 BLUF 第一行——P-8 觀測到的是「unidentified」物體，從「unknown origin」出來。
+關鍵在 BLUF 第一行的用詞：「unidentified low-flying object」、「from an unknown origin」、「possible missile」。P-8 看到的是不明物體，**特徵符合飛彈**，但身分沒被確認。
 
 換句話說：
 
-- ✗ P-8 看到俄艦發射飛彈
-- ✓ P-8 看到一個來路不明的物體，特徵像飛彈
+- P-8 沒有「看到俄艦發射飛彈」
+- P-8 看到一個來路不明的物體，外觀像飛彈
 
-事後 CTG 67.1（也就是 USS Carl Vinson 任務戰鬥群指揮官）對這次互動的評語是「**characterized the interaction as safe**」並「**assessed to be standard activity consistent with the assessed activity of the KCTG**」。
+事後 CTG 67.1（巡邏與偵察任務群指揮官）對這次互動的評語是「characterized the interaction as safe」、「assessed to be standard activity consistent with the assessed activity of the KCTG」。
 
-但這句話也只是「評估」（assessed），不是「確認」（confirmed）。
+是「評估」（assessed），不是「確認」（confirmed）。所以歸入 UAP 釋出包。
 
 ## 三張縮圖透露的細節
 
 報告上方有兩張 EO/IR 縮圖，左下角有一張全景圖。
 
-**左下全景**清楚標示三個元素：「U/I OBJ」（不明物體）、「(RUS) INGUL ARS」（俄羅斯英古爾號補給艦）、「U/I VESSEL」（不明船舶）。報告原文寫物體「was observed to pass between (RUS) INGUL ARS and 1x U/I vessel」——從俄軍補給艦與一艘身分不明船舶之間穿過。
+左下全景標示三個元素：「U/I OBJ」（不明物體）、「(RUS) INGUL ARS」（俄羅斯英古爾號補給艦）、「U/I VESSEL」（不明船舶）。報告原文寫物體「was observed to pass between (RUS) INGUL ARS and 1x U/I vessel」，從俄軍補給艦與一艘身分不明船舶之間穿過。
 
-**右上兩張縮圖**是 EO/IR sensor 不同時刻的放大畫面。可以看出物體在黑色海面上呈現一個小亮點（IR 高溫特徵，符合飛彈推進器的熱訊號）。
+右上兩張縮圖是 EO/IR sensor 不同時刻的放大畫面。物體在黑色海面上呈現一個小亮點，IR 高溫特徵符合飛彈推進器熱訊號。
 
 ## D55 vs. 後續 D 系列
 
-排列在 1.4a 條款下的細節遮罩（座標、感測器精確讀數、影片連結）幾乎一致。但 D55 的「**characterized as safe**」與 2020 後 D 系列那種「**range fouler**」（射擊場干擾物，含敵意可能）措辭明顯不同。
+1.4a 遮罩規則一致（座標、感測器讀數、影片連結都遮）。但 D55 的「characterized as safe」與 2020 後 D 系列的「range fouler」（射擊場干擾物）措辭不同。
 
 | 報告 | 年份 | 區域 | 措辭 |
 |---|---|---|---|
-| **D55** | **2016-11** | **東地中海** | **safe / standard activity** |
+| D55 | 2016-11 | 東地中海 | safe / standard activity |
 | D3-D8 | 2020 | 阿拉伯灣 | range fouler |
 | D38 | 2020-05 | 中東 | range fouler |
 | D42 | 2023 | 日本 | range fouler debrief |
 | D74 | 2023-11 | 敘利亞 | mission report |
 
-D55 是「目視觀測 + 評估為已知活動」的記錄。後續 D 系列開始用「range fouler」這個帶有「敵對干擾」隱含意義的術語。**2016 → 2020 軍方對 UAP 觀測的措辭明顯升級**。
+D55 是 P-8A 海上巡邏機在公海觀測，物體被評估為已知活動。後續 range fouler 報告多是戰機在訓練空域被陌生物體干擾。措辭不同有可能反映用語演進，也可能只是不同情境用不同術語。兩種解讀都成立。
 
 ## 影像規格與來源
 
