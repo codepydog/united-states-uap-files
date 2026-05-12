@@ -6,8 +6,8 @@ source.mp4
 .DS_Store
 
 # Large source PDFs (kept locally only)
-reports/033-65_hs1-834228961_62-hq-83894_section_1/source.pdf
-reports/034-65_hs1-834228961_62-hq-83894_section_8/source.pdf
+docs/reports/033-65_hs1-834228961_62-hq-83894_section_1/source.pdf
+docs/reports/034-65_hs1-834228961_62-hq-83894_section_8/source.pdf
 
 # Editor / OS scratch
 *.swp
@@ -32,6 +32,11 @@ verify*.md
 # Python
 __pycache__/
 .pytest_cache/
+.venv/
 
 # Node
 node_modules/
+
+# MkDocs build output
+site_build/
+site/

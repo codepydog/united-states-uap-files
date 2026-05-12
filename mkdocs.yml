@@ -1,0 +1,90 @@
+site_name: United States UAP Files
+site_description: US Department of War 透過 PURSUE 系統解密公開的 UAP 檔案，中文索引與逐檔分析
+site_author: codepydog
+site_url: https://codepydog.github.io/united-states-uap-files/
+
+repo_url: https://github.com/codepydog/united-states-uap-files
+repo_name: codepydog/united-states-uap-files
+edit_uri: edit/main/
+
+docs_dir: docs
+site_dir: site_build
+use_directory_urls: false
+
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.top
+    - navigation.path
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切換暗色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切換亮色模式
+  font:
+    text: Noto Sans TC
+    code: JetBrains Mono
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+
+plugins:
+  - search:
+      lang:
+        - en
+        - ja
+
+nav:
+  - Home: index.md
+
+not_in_nav: |
+  reports/**/*.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+exclude_docs: |
+  /reports/*/*.mp4
