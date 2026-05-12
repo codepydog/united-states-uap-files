@@ -15,6 +15,12 @@ PR34 是 Part 1 14 份 PR 影片中明顯出現 blue-cross sensor lock 的條目
 
 藍色十字鎖定持續 1 分 22 秒，意味物體訊號穩定到 auto-track 演算法可以維持，但目標機動或 thermal contrast 變化突破了 lock 容差。
 
+![~ t=18s 開始](frame-start.jpg)
+
+![~ t=89s 中段](frame-mid.jpg)
+
+![~ t=159s 結束](frame-end.jpg)
+
 ## 對應 D 系列 MISREP
 
 對應 [#051 DOW-UAP-D33](../051-dow_uap_d33_mission_report_greece_october_2023/report.md)（東地中海 35S KD 95X，2023-10-27 00:35:12Z 觀測，33 SOS MQ-9 自希臘 Larissa 起飛 transit 中 3 分鐘內觀測 1 個「貼海面 + 多次 90 度直角轉彎」UAP，80 MPH，00:38Z 脫離 sensor）。
@@ -44,5 +50,6 @@ D33 + PR34 在 D 系列中機動描述特殊（80 MPH 直線飛行+多次 90 度
 | 公開日 | 2026-05-08 |
 | 釋出途徑 | USCENTCOM MDR |
 | 官方來源 | [DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023](https://www.war.gov/UFO/#DOW-UAP-PR34,%20Unresolved%20UAP%20Report,%20Greece,%20October%202023) |
+| DVIDS 鏡像 | [DVIDS video 1006080](https://www.dvidshub.net/video/1006080/) |
 
-公開 mp4 連結未能在 war.gov portal 解析（只有 slideshow JPG），分析以官方 caption 與 D33 MISREP 對應段展開。
+DVIDS 鏡像（video ID 1006080）；以下描述依 mp4 截幀與官方 caption。

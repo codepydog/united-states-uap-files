@@ -1,10 +1,16 @@
 # #087 DOW-UAP-PR29：UAE 2024-06，21 秒 IR 影片，中央「倒淚滴+垂直拖尾」，操作員研判水面反射
 
+![cover](cover.jpg)
+
 PR29 與 PR28 共享相同形態學描述（「倒淚滴+垂直拖尾」），但 caption 多了一句「操作員研判水面反射」。這是 PR 系列中少數 caption 直接提到「possible explanation」的條目，雖然官方仍將其列為 unresolved。
 
 ## 影片內容
 
 21 秒紅外影片。畫面中央出現「倒淚滴」對比區，下方有一條垂直線狀拖尾。背景紋理顯示對比區位於海面上方（阿曼灣），高度極低。21 秒內物體幾乎不動，sensor 緩慢 zoom-in 後 caption 標記「possibly water reflection」。
+
+![~ t=2s 開始](frame-start.jpg)
+
+![~ t=20s 結束](frame-end.jpg)
 
 ## 對應 D 系列 MISREP
 
@@ -36,10 +42,9 @@ PR29 與 PR28（D25）共享「倒淚滴+垂直拖尾」形態，這個跨案例
 | 公開日 | 2026-05-08 |
 | 釋出途徑 | USCENTCOM MDR |
 | 官方來源 | [DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024](https://www.war.gov/UFO/#DOW-UAP-PR29,%20Unresolved%20UAP%20Report,%20United%20Arab%20Emirates,%20June%202024) |
+| DVIDS 鏡像 | [DVIDS video 1006074](https://www.dvidshub.net/video/1006074/) |
 
-公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D27 MISREP gentext 展開。
-
-> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+DVIDS 鏡像（video ID 1006074）；以下描述依 mp4 截幀與官方 caption。
 
 ## 相關報告
 

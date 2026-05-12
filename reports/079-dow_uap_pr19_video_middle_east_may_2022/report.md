@@ -6,7 +6,14 @@ PR19 是 War Department 2026-05-08 釋出 PR（Unresolved UAP Report）系列中
 
 ## 影片內容
 
-5 秒紅外（IR）影片。畫面下三分之一可見一個對比區由左向右橫越，移動軌跡近水平。背景紋理為地表 IR 反射，影片無人聲、無 HUD overlay 文字。官方僅提供圖像標題「Still from a video that a U.S. military operator reported as featuring UAP flying across their screen」，未列影像具體秒數與訊框格式。
+- 長度：5 秒（5.4 秒，DVIDS 鏡像），1920x1080，30 fps
+- 5 秒紅外（IR）影片。畫面下三分之一可見一個對比區由左向右橫越，移動軌跡近水平。背景紋理為地表 IR 反射，影片無人聲、無 HUD overlay 文字。官方圖像標題：「Still from a video that a U.S. military operator reported as featuring UAP flying across their screen」。
+
+![~ t=0.5s 開始](frame-start.jpg)
+
+![~ t=2.7s 中段](frame-mid.jpg)
+
+![~ t=4.9s 結束](frame-end.jpg)
 
 ## 對應 D 系列 MISREP
 
@@ -34,5 +41,6 @@ AARO 將 D10 + PR19 整組列為 unresolved，主要原因有：
 | 公開日 | 2026-05-08 |
 | 釋出途徑 | USCENTCOM MDR 25-0094 thru MDR 25-0099 |
 | 官方來源 | [DOW-UAP-PR19, Unresolved UAP Report, Middle East, May 2022](https://www.war.gov/UFO/#DOW-UAP-PR19,%20Unresolved%20UAP%20Report,%20Middle%20East,%20May%202022) |
+| DVIDS 鏡像 | [DVIDS video 1006056](https://www.dvidshub.net/video/1006056/) |
 
-公開 mp4 連結未能在 war.gov portal 解析（只暴露 slideshow JPG），分析以官方 caption 與 D10 MISREP 內容展開。
+DVIDS 鏡像（video ID 1006056）；以下描述依 mp4 截幀與官方 caption 與 D10 MISREP 對應段。

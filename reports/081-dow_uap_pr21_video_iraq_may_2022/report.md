@@ -1,10 +1,19 @@
 # #081 DOW-UAP-PR21：伊拉克 2022-05，10 秒 IR 影片，兩處對比區並肩移動，疑「可能 SU-27/35」
 
+![cover](cover.jpg)
+
 PR21 在 14 份 Part 1 PR 影片中是少數有具體飛機型號推測的條目。AARO 將「可能 SU-27/35」的判讀寫入 caption，這個推測來自 D14 MISREP 中影像判讀員的 VISRECCE 紀錄。
 
 ## 影片內容
 
-10 秒紅外影片。畫面中央同時出現兩處對比區，並肩移動，間距大致固定。兩物體一同進入畫面、一同離開，符合編隊飛行（formation flight）特徵。speed、altitude、heading 均未在 caption 中列出。
+- 長度：10 秒（10.27 秒，DVIDS 鏡像），1920x1080，30 fps
+- 10 秒紅外影片。畫面中央同時出現兩處對比區，並肩移動，間距大致固定。兩物體一同進入畫面、一同離開，符合編隊飛行（formation flight）特徵。speed、altitude、heading 均未在 caption 中列出。
+
+![~ t=1.0s 開始](frame-start.jpg)
+
+![~ t=5.1s 中段](cover.jpg)
+
+![~ t=9.2s 結束](frame-end.jpg)
 
 ## 對應 D 系列 MISREP
 
@@ -34,10 +43,9 @@ D14 同任務 OBS 還包含 2022-05-30 00:11Z 觀測到 1 架可能 Su-27/35 降
 | 公開日 | 2026-05-08 |
 | 釋出途徑 | USCENTCOM MDR 25-0094 thru MDR 25-0099 |
 | 官方來源 | [DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022](https://www.war.gov/UFO/#DOW-UAP-PR21,%20Unresolved%20UAP%20Report,%20Iraq,%20May%202022) |
+| DVIDS 鏡像 | [DVIDS video 1006059](https://www.dvidshub.net/video/1006059/) |
 
-公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D14 MISREP 對應段。
-
-> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+DVIDS 鏡像（video ID 1006059）；以下描述依 mp4 截幀與官方 caption 與 D14 MISREP 對應段。
 
 ## 相關報告
 

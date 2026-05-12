@@ -1,10 +1,19 @@
 # #083 DOW-UAP-PR23：伊拉克 2022-12，10 秒 IR 影片，對比區左下→右上，6 秒離開視野
 
+![cover](cover.jpg)
+
 PR23 是 Part 1 中軌跡方向特殊的條目：對比區由左下進入畫面、向右上斜飛、6 秒處離開。這個對角線軌跡與 PR19、PR22 的近水平軌跡不同，但 D 系列 MISREP 對軌跡的描述極簡，難以從文字反推 PR23 的方向到底是友軍視角還是地面參考。
 
 ## 影片內容
 
-10 秒紅外影片。對比區從畫面左下進入，向右上方斜向移動，6 秒處離開視野，剩下 4 秒為背景。Sensor 沒有 follow，holding 在原視野，這代表 sensor 操作員的注意力在另一個目標（D18 MISREP 提到的對地任務），UAP 是「背景中的不明對象」而非主動追蹤目標。
+- 長度：10 秒（10.73 秒，DVIDS 鏡像），1920x1080，30 fps
+- 紅外影片。對比區從畫面左下進入，向右上方斜向移動，6 秒處離開視野，剩下 4 秒為背景。Sensor 沒有 follow，holding 在原視野，這代表 sensor 操作員的注意力在另一個目標（D18 MISREP 提到的對地任務），UAP 是「背景中的不明對象」而非主動追蹤目標。
+
+![~ t=1.1s 開始](frame-start.jpg)
+
+![~ t=5.4s 中段](cover.jpg)
+
+![~ t=9.7s 結束](frame-end.jpg)
 
 ## 對應 D 系列 MISREP
 
@@ -32,10 +41,9 @@ D18 是 D 系列中首次把「可能 UAV」列入分類選項的案例，這個
 | 公開日 | 2026-05-08 |
 | 釋出途徑 | USCENTCOM MDR 25-0094 thru MDR 25-0099 |
 | 官方來源 | [DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022](https://www.war.gov/UFO/#DOW-UAP-PR23,%20Unresolved%20UAP%20Report,%20Iraq,%20December%202022) |
+| DVIDS 鏡像 | [DVIDS video 1006062](https://www.dvidshub.net/video/1006062/) |
 
-公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D18 MISREP 對應段。
-
-> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+DVIDS 鏡像（video ID 1006062）；以下描述依 mp4 截幀與官方 caption 與 D18 MISREP 對應段。
 
 ## 相關報告
 

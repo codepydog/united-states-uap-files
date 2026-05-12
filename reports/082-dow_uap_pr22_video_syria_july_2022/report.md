@@ -1,10 +1,19 @@
 # #082 DOW-UAP-PR22：敘利亞 2022-07，14 秒 IR+EO 分割畫面，5 秒處右上四分之一物體右→左
 
+![cover](cover.jpg)
+
 PR22 是 Part 1 中唯一使用 IR+EO 分割畫面格式的條目。MQ-9 的 MTS-B sensor 可同時輸出 IR 與 EO（電光／可見光）兩通道，PR22 把兩個視角並排呈現，讓判讀員比對熱訊號與可見光是否一致。
 
 ## 影片內容
 
-14 秒。畫面左右分割：左為 IR（白熱）、右為 EO（可見光），同一視野同一時間。5 秒處右上四分之一出現物體，由右向左移動。IR 通道可見明顯對比區，EO 通道在同位置是否可見未在 caption 中標明，這正是 D16 描述「不到 1 分鐘」短暫目擊的特徵。
+- 長度：14 秒（14.20 秒，DVIDS 鏡像），1920x1080，30 fps
+- 畫面左右分割：左為 IR（白熱）、右為 EO（可見光），同一視野同一時間。5 秒處右上四分之一出現物體，由右向左移動。IR 通道可見明顯對比區，EO 通道在同位置是否可見未在 caption 中標明，這正是 D16 描述「不到 1 分鐘」短暫目擊的特徵。
+
+![~ t=1.4s 開始](frame-start.jpg)
+
+![~ t=7.1s 中段](cover.jpg)
+
+![~ t=12.8s 結束](frame-end.jpg)
 
 ## 對應 D 系列 MISREP
 
@@ -34,10 +43,9 @@ D16 + PR22 留為 unresolved 的關鍵在「短暫」：
 | 公開日 | 2026-05-08 |
 | 釋出途徑 | USCENTCOM MDR 25-0094 thru MDR 25-0099 |
 | 官方來源 | [DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022](https://www.war.gov/UFO/#DOW-UAP-PR22,%20Unresolved%20UAP%20Report,%20Syria,%20July%202022) |
+| DVIDS 鏡像 | [DVIDS video 1006060](https://www.dvidshub.net/video/1006060/) |
 
-公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D16 MISREP 對應段。
-
-> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+DVIDS 鏡像（video ID 1006060）；以下描述依 mp4 截幀與官方 caption 與 D16 MISREP 對應段。
 
 ## 相關報告
 

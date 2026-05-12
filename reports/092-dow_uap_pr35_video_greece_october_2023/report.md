@@ -10,6 +10,12 @@ PR35 與 PR34 形成 D 系列觀測對：PR34（D33）2023-10-27 觀測「90 度
 
 「海→陸過渡時消失於背景」是 PR35 caption 的關鍵描述。陸地 IR 背景比海面複雜（地表熱輻射、植被、建築熱回波），低 contrast 物體進入陸上即難以分離。
 
+![~ t=2s 開始](frame-start.jpg)
+
+![~ t=12s 中段](frame-mid.jpg)
+
+![~ t=22s 結束](frame-end.jpg)
+
 ## 對應 D 系列 MISREP
 
 對應 [#052 DOW-UAP-D35](../052-dow_uap_d35_mission_report_greece_october_2023/report.md)（35S MV 3X，2023-10-29 08:11:00Z 觀測，33 SOS MQ-9 在希臘 LGLR 巡邏返航中觀測 1 個「貼海面直線飛向陸地」UAP，30 MPH，「SEEMINGLY CIRCULAR, TOO SMALL TO MAKE OUT DETAILS」描述與 D33 逐字一致）。
@@ -40,5 +46,6 @@ D35 + PR35 的特殊之處不在單一觀測，而在「兩日後再現」：
 | 公開日 | 2026-05-08 |
 | 釋出途徑 | USCENTCOM MDR |
 | 官方來源 | [DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023](https://www.war.gov/UFO/#DOW-UAP-PR35,%20Unresolved%20UAP%20Report,%20Greece,%20October%202023) |
+| DVIDS 鏡像 | [DVIDS video 1006082](https://www.dvidshub.net/video/1006082/) |
 
-公開 mp4 連結未能在 war.gov portal 解析（只有 slideshow JPG），分析以官方 caption 與 D35 MISREP 對應段展開。
+DVIDS 鏡像（video ID 1006082）；以下描述依 mp4 截幀與官方 caption。
