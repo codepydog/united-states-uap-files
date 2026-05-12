@@ -31,7 +31,7 @@
 - **Horten 兄弟線**：AMC 同時在比對德國 Horten 兄弟（無尾翼飛行翼設計者）的 Horten Parabola 圖紙，並引用 1947 年 6 月駐莫斯科武官報告「1600 架 Horten VIII 噴射版正在為蘇聯轟炸機中隊生產」。也就是說，AMC 一開始就在問「會不會是俄國拿到 Horten 圖紙做出來的？」
 - **Mrs. Merchant 線**：新墨西哥州 Santa Fe 一位女士 Madeline Gwynne Merchant 跟 Brentnall 准將提出「飛碟是俄國人在墨西哥中部的實驗室發射出來，目標是美國原子能設施」的理論。AMC 把這條線追了將近一個月後決定「close this case」，但這條線就是 Twining 信中「foreign nation with nuclear propulsion」這個括號的人類來源。
 
-## 1. 1947-08-22：Garrett Memo — 先列特徵
+## 1. 1947-08-22 Garrett Memo：先列特徵
 
 8 月 22 日，AC/AS-2（情報處）情報需求部蒐集分支主任 R.D. Doyle 上校簽了一份 Routing and Record Sheet（RRS）給 R&D 部門，這就是後來 UFO 學家稱為「Garrett Memo」的文件（執筆人是 Lt Col George D. Garrett）。
 

@@ -117,7 +117,7 @@ MGRS 40Q 對應：
 
 **(1) D44 是 D 系列第三份「thermally cold」案件**：繼 D23（2023 UAE，FL210）+ D38（2020 波斯灣，20,000 ft contact alt）後，D44 在 Gulf of Aden 海面（171 ft）再次出現「Black Hot bright white」signature。**三個案件分布在三個不同海域（UAE 內陸 / 波斯灣 / Gulf of Aden）+ 三個不同高度層（FL210 / 20,000 ft / sea-level），但物理特徵一致**。
 
-**(2) 172 ATKS 是 D 系列第二個 ANG MQ-9 通報單位**：172 ATKS（Michigan ANG, Battle Creek MI）。前案是 [#031 D14（2024-04-08 East China Sea）](../031-dow_uap_d14_mission_report_east_china_sea_april_2024/report.md) 中 196 ATKS（California ANG）。**美國本土 ANG 派駐海外 MQ-9 部隊累積至少 2 份 D 系列 UAP 通報**，且都是**冷物體（D44）或不規則機動（D14, D44）**。
+**(2) 172 ATKS 是 D 系列第二個 ANG／AFRC 預備役 MQ-9 通報單位**：172 ATKS（Michigan ANG, Battle Creek MI）。對應 [#055 D42](../055-dow_uap_d42_range_fouler_debrief_japan_2023/report.md) 是 482 ATKS（Florida AFRC）。**美國本土 ANG／AFRC 預備役 MQ-9 部隊在 USCENTCOM AOR 累積至少 2 份 D 系列 UAP 通報**，皆採 SPEAR Range Fouler Form 表格格式。
 
 **(3) MDR 26-0038 to MDR 26-0046 是 D 系列中的「範圍批次」釋出**：前述案件（D33/D35/D38 = MDR 26-0019，D42 = MDR 26-0028）都是單一 MDR 號碼，D44 標註為 MDR 26-0038 to MDR 26-0046（9 個 MDR 號碼範圍）。意味本批次可能包含其他相關案件，全部由同一個 declassification packet 處理。Approved for Release to AARO 2026-03-27 比 D42（2026-03-16）晚 11 天，與 D42 同屬「2026 年 3 月下旬 USCENTCOM 釋出批次」。
 

@@ -95,11 +95,11 @@ D48 是 D 系列「非 UAP 觀測」案件。與其他 D 系列檔案的 USCENTC
 
 **(5) Atlas / Delta / Titan 失效史（附錄 D）的 UAP 相關性疑問**：附錄 D 列出 1957-1996 年所有 Atlas / Delta / Titan 任務的失效紀錄。**有沒有任何一筆失效紀錄與 UAP / 不明飛行物相關？需要逐筆掃描附錄 D 內容**才能確認。本報告未深入分析附錄 D，留待後續驗證。
 
-**(6) D 系列「非 SECRET」文件**：前 56 份 D 系列檔案全部標註 SECRET 或 SECRET // FOUO/PA。D48 標註為 Unclassified（但限分發）。對應 D 系列 SECRET // REL TO USA, FVEY 案件（[#054 D4](../054-dow_uap_d4_mission_report_arabian_gulf_2020/report.md)）的另一個極端：機密層級分布從 Unclassified（D48）到 SECRET // NOFORN（多數 MISREP）跨越完整光譜。
+**(6) D 系列「非 SECRET」文件**：前 56 份 D 系列檔案全部標註 SECRET 或 SECRET // FOUO/PA。D48 標註為 Unclassified（但限分發）。對應 D 系列 SECRET // REL TO USA, FVEY 案件（[#054 D4](../054-dow_uap_d4_mission_report_arabian_gulf_2020/report.md)），機密層級分布從 Unclassified（D48）到 SECRET // NOFORN（多數 MISREP）跨越完整光譜。
 
 ## 5. 跨檔案連結
 
-- **[#020 NASA Apollo 11 MET 任務時間軸](../020-nasa_apollo_11_met/report.md)**：D 系列收錄的另一份「支援 UAP 分析的歷史技術基線文件」。NASA MET 是太空任務時間軸，D48 是太空安全失效建模，兩者都不直接觀測 UAP，但提供分析基線。
+- **[#141 NASA Apollo 11 MET 任務時間軸](../141-nasa_apollo_11/report.md)**：D 系列釋出包內另一份「支援 UAP 分析的歷史技術基線文件」。NASA MET 是太空任務時間軸，D48 是太空安全失效建模，兩者都不直接觀測 UAP，但提供分析基線。
 - **[#054 D4 阿拉伯灣 2020](../054-dow_uap_d4_mission_report_arabian_gulf_2020/report.md)**：D 系列機密層級的另一極端（SECRET // REL TO USA, FVEY），與 D48（Unclassified）構成完整光譜。
 
 ## 6. 來源

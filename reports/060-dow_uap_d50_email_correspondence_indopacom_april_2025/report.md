@@ -140,13 +140,13 @@ D 系列前 59 份案件分布：
 - USNORTHCOM AOR（北美）：少數（部分 NASA 任務）
 - **INDOPACOM AOR：D50 是首例**
 
-意味 D 系列檔案在 2025 年釋出時，AARO 已開始納入太平洋戰區 UAP 案件。對應 [#031 D14 2024-04-08 East China Sea](../031-dow_uap_d14_mission_report_east_china_sea_april_2024/report.md)（196 ATKS California ANG 在東中國海觀測，標題已標 East China Sea），但 D14 屬於 USINDOPACOM 戰場的早期案件、且為完整 MISREP 格式。D50 是明確以 INDOPACOM 為 AOR 的 tearline-only 案件。
+意味 D 系列檔案在 2025 年釋出時，AARO 已開始納入太平洋戰區 UAP 案件。D 系列前 59 份案件全部分布在 USCENTCOM AOR（中東／北非）或 USNORTHCOM AOR（北美），D50 是首份在文件本身明確標註 INDOPACOM AOR 的 tearline-only 案件。
 
 ## 5. 觀察
 
 **(1) D50 揭示 D 系列方法論**：揭示 AARO 解密工作流程從 SECRET // NOFORN 原始觀測、12 AF/DET 3 PAROC 中介、原始飛行單位確認、USD(I&S) Information Disclosure Analyst 公開釋出的完整鏈條。所有 D 系列觀測都隱含類似流程，D50 是明確紀錄此流程的 case。
 
-**(2) D 系列首份 INDOPACOM 案件**：意味 DOW UAP 釋出包擴展超出 USCENTCOM AOR。對應 [#031 D14 East China Sea 2024-04-08](../031-dow_uap_d14_mission_report_east_china_sea_april_2024/report.md) 屬於早期太平洋戰區案件，但 D14 標題未明示 INDOPACOM。D50 是首份在文件本身明確標註 INDOPACOM AOR 的案件。
+**(2) D 系列首份 INDOPACOM 案件**：意味 DOW UAP 釋出包擴展超出 USCENTCOM AOR。對照 [#046 D28](../046-dow_uap_d28_mission_report_ayn_al_asad_iraq_september_2024/report.md) PDF 標題誤標「East China Sea 2024」（實際內容為 Iraq Ayn al Asad），D50 是少數在文件本身正確標註太平洋戰區 AOR 的案件。
 
 **(3) D 系列 email 對話文件類型**：前 59 份案件都是任務報告、表格、技術文件。D50 是內部行政 email，揭示官僚層級互動。未來其他 D 系列 email correspondence 案件可能類似。
 
@@ -169,8 +169,7 @@ D 系列前 59 份案件分布：
 
 ## 6. 跨檔案連結
 
-- **[#031 D14 East China Sea 2024-04-08](../031-dow_uap_d14_mission_report_east_china_sea_april_2024/report.md)**：D 系列前一份太平洋戰區案件（196 ATKS California ANG），D50 是首份明確標 INDOPACOM AOR 的案件。
-- **[#046 D28 Ayn al Asad 2024-09-20](../046-dow_uap_d28_mission_report_ayn_al_asad_iraq_september_2024/report.md)**：D50 PDF metadata 誤標 D28。**D50 第 8 處 DOW metadata 錯誤**。
+- **[#046 D28 Ayn al Asad 2024-09-20](../046-dow_uap_d28_mission_report_ayn_al_asad_iraq_september_2024/report.md)**：PDF 標題誤標「East China Sea 2024」實際為 Iraq；D50 是 D 系列中少數在文件本身正確標註 INDOPACOM AOR 的案件，與 D28 的地理 metadata 錯誤形成對比。D50 自身 PDF metadata 亦誤標為 D28。
 - **[#058 D49 Vandenberg Launch Summary 2000](../058-dow_uap_d49_vandenberg_launch_summary_1958_2000/report.md)**：兩份檔案皆 PDF metadata 誤標前案編號（D49 → D27, D50 → D28），意味 DOW 上傳系統批次處理錯誤。
 
 ## 7. 來源

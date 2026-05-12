@@ -1,6 +1,8 @@
 # #080 DOW-UAP-PR20：科威特 2022-05，紅圈標註的單張靜止影像，長條對比區左上→右下漸亮
 
-PR20 是 PR 系列中唯一以「單張靜止影像」釋出的條目，其他 PR 多為短影片片段。畫面以紅圈標註物體位置，紅外背景上一個長條形對比區呈現左上至右下的亮度梯度，無法判斷是運動軌跡的瞬間還是物體本身形狀。
+> **媒體來源**：war.gov 為 PR20 提供 image press release，本 repo 未鏡像影音檔。以下描述依官方 caption 與對應 [#036 D12](../036-dow_uap_d12_mission_report_iraq_may_2022/report.md) MISREP 推得，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+
+PR20 是 PR 系列中唯一以「單張靜止影像」釋出的條目，其他 PR 多為短影片片段。依官方 caption，畫面以紅圈標註物體位置，紅外背景上一個長條形對比區呈現左上至右下的亮度梯度，無法判斷是運動軌跡的瞬間還是物體本身形狀。
 
 ## 影像內容
 
@@ -33,8 +35,6 @@ PR20 名稱含「Kuwait」是因為 196 ATKS MQ-9 的起降基地是 OKAS（Ali 
 | 官方來源 | [DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022](https://www.war.gov/UFO/#DOW-UAP-PR20,%20Unresolved%20UAP%20Report,%20Kuwait,%20May%202022) |
 
 公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D12 MISREP 對應段。
-
-> **媒體來源**：war.gov 公開 image press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
 
 ## 相關報告
 
