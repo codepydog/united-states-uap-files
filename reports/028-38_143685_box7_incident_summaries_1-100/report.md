@@ -19,7 +19,7 @@
 
 這份檔案的歷史意義：
 
-1. **是 USAF 已解密文件中最早期、最完整的 UFO 案件標準化目錄**。每個案件都有 Check-List + 附件（目擊者陳述、控制塔通訊紀錄、雷達資料、地圖、草圖）。
+1. **是 Project Sign 1948 年建檔的第一冊案件目錄**，涵蓋 Incident #1 至 #100。每個案件都有 26 欄 Check-List + 附件（目擊者陳述、控制塔通訊紀錄、雷達資料、地圖、草圖）。
 2. **時間範圍橫跨「飛碟潮起源」**：1947-06-24 Kenneth Arnold Mt Rainier 案（#17）、1947-06-28 內華達州 Lake Mead 區戰機飛行員 5-6 物編隊案（#53）、1947-07-08 Muroc AAF 1st Lt McHenry 案（#1）、1947-11-02 Houston Brimberry 夫婦案（#96）、1948-01-07 Mantell-day Kentucky 連續案（#30 / #33 / #48 系列）。
 3. **顯示 1948 年 Project Sign 的內部評估框架**：每個案件的 Check-List 最後一行是 **EVALUATION**（「Confirmed by other sources」/「Probable balloon」/「Insufficient data」等），這是 Project Sign 把案件分類為「真正未識別」vs.「已解釋」的工作底稿。
 
@@ -181,7 +181,7 @@ Arnold 案 4 天後（1947-06-28）內華達州 Lake Mead 區，1st Lt Eric B. A
 
 ## 5. Mantell Day：1948-01-07 Kentucky 案件群
 
-1948-01-07 是 Project Sign 早期最重要的單一事件日。當天從中午到夜間，Godman Field（Kentucky）、Lockbourne AAB（Ohio）、Clinton County AAF（Ohio）、Madisonville（Kentucky）、Columbus（Ohio）多個地點連續報告同一個物體。Captain Thomas F. Mantell 駕駛 P-51 從 Godman 升空追擊，於 1500 EST 左右失事身亡。
+1948-01-07 是 Project Sign 早期被引用最多的單一事件日。當天從中午到夜間，Godman Field（Kentucky）、Lockbourne AAB（Ohio）、Clinton County AAF（Ohio）、Madisonville（Kentucky）、Columbus（Ohio）多個地點連續報告同一個物體。Captain Thomas F. Mantell 駕駛 P-51 從 Godman 升空追擊，於 1500 EST 左右失事身亡。
 
 Project Sign 編號為 **Incident #30** 系列（#30、#30a、#30b、#33a-f）：
 

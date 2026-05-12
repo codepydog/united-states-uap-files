@@ -15,19 +15,15 @@
 
 ![cover](cover.jpg)
 
-## 為什麼這份檔案重要，但不是因為 UFO
+## 故事
 
-本電報主題是 Turkmenistan 的 NGO「Turkmenabat UFOlogists 聯盟」（Union of UFOlogists, UOU），不是 UFO 目擊報告。UOU 1992 年（Turkmenistan 獨立後）成立，原意是「研究外星生命」，但實際營運轉型為**普通民間社會 NGO**：小型企業註冊輔導、人道援助分發、其他 NGO 註冊輔導、業餘電腦/會計/UFOlogy/按摩課程收費等。
+2004-11-12，美駐 Ashgabat 大使館 DCM 到 Turkmenistan 一間 NGO 辦公室訪談。辦公室牆上掛著英、俄、土三語使命宣言，自稱是「Union of UFOlogists」（UOU），1992 年 Turkmenistan 獨立後第一個註冊的 NGO。理事會成員告訴 DCM，他們最初是為研究外星生命而成立，後來工作「變得更實際」。
 
-UOU 是 Turkmenistan 1992 後**第一個註冊的 NGO**，並且是 2003 嚴苛 NGO 法後**第一個成功重新註冊的獨立 NGO**。美使館 USAID 透過 Counterpart International 給 UOU 一筆 $8,532 grant 協助其他 NGO 完成註冊；另在審議 $15,000 內部能力建設 grant；UOU 並向 USAID 申請 $30k 印刷設備 grant 以發行 Turkmenistan 第一份獨立通訊刊物（規避 NGO 法 1000 份限制，他們只印 999 份）。
+實際做的事包括：協助 187 家中小企業向當地當局註冊、輔導 4 個其他 NGO 完成註冊（在 2003 嚴苛 NGO 法之下這是稀有能力）、分發 State Dept CHAP 計畫的人道援助物資（給 Tajikistan 內戰與 Afghanistan 難民）、計畫發行 Turkmenistan 第一份獨立通訊刊物（只印 999 份規避 1000 份法定上限）。賺錢方式：開設收費的電腦課、會計課、UFOlogy 課、按摩課。
 
-電報內容含 UFO 元素的只有：「UOU President Ovezberdy Muradov 說 Turkmen 軍方和政府當局曾就 Turkmen 領空中的『神秘事件』向他諮詢，但他說 Turkmenistan 並無確認的 UFO 目擊。」
+UFO 部分只有一句話：「UOU 主席 Muradov 說 Turkmen 軍方曾就 Turkmen 領空中的『神秘事件』向他諮詢，但 Turkmenistan 並無確認的 UFO 目擊。」電報 COMMENT 段一句話：「Crazy? Like a fox; and worthy of USG attention and support.」（瘋了嗎？像狐狸一樣狡猾；值得美國政府關注與支持。）使館的判斷是「假 UFO 真 NGO」是有效合作對象，USAID 已撥 $8,532、審議中 $15,000、申請中 $30k。
 
-歷史意義：
-
-1. **「UFO」命名的 NGO 在 Turkmenistan 獨裁政權下能存活**：「everyone is interested in UFOs」讓地方當局願意配合。這是 1990s Soviet 解體後新獨立國家 NGO 生態的有趣標本。
-2. **美使館對 UOU 的真實態度**：「Crazy? Like a fox; and worthy of USG attention and support.」，使館將 UOU 視為「假 UFO 真 NGO」的有效合作對象。
-3. **與真實 UAP 議題的距離**：雖然檔案標題含 UFO，但內容 95% 是 NGO 治理、Turkmenistan 政治、USAID 援助路徑分析。Muradov 對軍方諮詢的回應「沒有確認的 UFO 目擊」是唯一相關句。
+這份電報被 War Department 2026-05-08 釋出包以「UFO」關鍵字撈出來，列入 161 份 UAP 檔案。內容 95% 是 Niyazov 獨裁政權下的 NGO 治理史，UFO 元素只是命名保護色：「everyone is interested in UFOs」讓地方當局願意配合一個真正在做民間社會工作的 NGO 存活下來。
 
 ## 1. UOU 的多重身分
 

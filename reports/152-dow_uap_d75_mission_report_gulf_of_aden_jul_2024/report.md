@@ -2,7 +2,7 @@
 
 ![page-1](page-1.jpg)
 
-2024-07-14，一架 USAF ISR 機在亞丁灣戰區先支援 NAVCENT 後 retask 給 AFCENT。第一個任務段才執行 1 小時 43 分鐘，05:17Z 就觀測到 1 個 UAP，飛機嘗試跟蹤，但「UAP'S SPEED WAS FASTER THAN THE [己方平台] FLYING SPEED」，最後「FOLLOWED THE UAP TILL THE DISTANCE BECAME TOO FAR TO FOLLOW」。19 小時 40 分鐘任務裡，UAP 是資訊量最高的觀測。其餘時間都是 NAVCENT 加 AFCENT 標準 target development，narrative 寫 NSTR（Nothing Significant To Report）。
+2024-07-14，一架 USAF ISR 機在亞丁灣戰區先支援 NAVCENT 後 retask 給 AFCENT。第一個任務段才執行 1 小時 43 分鐘，05:17Z 就觀測到 1 個 UAP，飛機嘗試跟蹤，但「UAP'S SPEED WAS FASTER THAN THE [己方平台] FLYING SPEED」，最後「FOLLOWED THE UAP TILL THE DISTANCE BECAME TOO FAR TO FOLLOW」。19 小時 40 分鐘任務裡，UAP 是訊息量最高的觀測。其餘時間都是 NAVCENT 加 AFCENT 例行 target development，narrative 寫 NSTR（Nothing Significant To Report）。
 
 [#076 D74](../151-dow_uap_d74_mission_report_syria_nov_2023/report.md) 使用相同 41 欄 UAP 資料卡格式，D75 多了「己方主動嘗試追蹤」這個動作。
 

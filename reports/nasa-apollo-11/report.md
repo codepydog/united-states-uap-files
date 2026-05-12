@@ -23,24 +23,11 @@ Apollo 11 是首次載人登月。機組 Armstrong（CDR）、Aldrin（LMP）、
 - 月軌道 CDH 階段 Aldrin 看到「possible laser」，trans-Earth 段才透過視差驗證它是湖面反射太陽光
 - 這是 Apollo 計畫中第一次有太空人在 debrief 提出粒子穿透假說，三年後才被 Apollo 17 ALFMED 實驗驗證
 
-## Apollo 11 Technical Crew Debriefing 封面
-
-![](cover.jpg)
-
-文件視覺特徵：
-
-- 上方手寫「94」+「251 pgs」（後者是原文件總頁數，本 release 只抽出 UAP 相關章節）
-- 標題 (U) marker，1969 年寫成時整份文件分級為 CONFIDENTIAL
-- 中間有一個褪色的紅藍方框 stamp 「CLASSIFICATION CHANGED TO U / BY AUTHORITY OF E.O. 11652 / DATE 6/4/72 / [簽名]」，1972 年依 Nixon E.O. 11652 改為非機密；又有一個 1977-04-11 的二次審視簽名
-- GROUP 4 框：「Downgraded at 3-year intervals; declassified after 12 years」，1969 年原訂解密時程，理論上應該 1981 解密
-- 左下圓形 indexing routing stamp（與 Apollo 17 同款）
-- 下方 INDEXING DATA 手寫填入 DATE 07-31-69、OPR MSC、PGM A 11
-
-兩個時間軸並列：1969 原定 12 年內解密 → 1972 已改為 unclassified → 但實際公開要等到 2026。中間 49 年沒有公開，是這份 release 在物質上最直接的「為什麼現在才看到」答案。
-
 ## Aldrin 第一晚發現艙內 flashes（頁 6-37）
 
-![](aldrin-cabin-flashes.jpg)
+![Aldrin debrief 6-37：「I observed what I thought were little flashes inside the cabin... some sort of penetration」](cover.jpg)
+
+這份 release 是 1969-07-31 寫的 Technical Crew Debriefing 節錄，原文件 251 頁，1969 年分級 CONFIDENTIAL，1972 年依 Nixon E.O. 11652 改為非機密，1977 二次審視簽名，2026-05-08 才釋出。中間 49 年沒公開。
 
 頁碼 6-37。CONFIDENTIAL stamp 上下都被劃掉。
 

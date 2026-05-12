@@ -2,7 +2,7 @@
 
 ![cover](cover.jpg)
 
-PR38 是 PR 系列中年代最早的影片（2013），地點記為「中東」。AARO 公開時提供 caption 但無對應 D 系列 MISREP，是 PR 系列中少數涵蓋 2013 年代的 IR 影片。
+PR38 是整個 PR 系列裡年代最早的影片，回到 2013 年的中東上空。畫面中央出現的東西很難用一般詞描述：八個臂，臂長交替長短，像一顆對稱失序的星。官方 caption 也只好寫成「octagonal contrast region with alternating arm lengths」。沒有 D 系列 MISREP 配對，2013 年的資料庫無法回溯比對現代無人機型錄或衛星發射記錄。
 
 ## 影片內容
 

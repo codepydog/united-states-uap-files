@@ -11,19 +11,15 @@
 
 ![cover](cover.jpg)
 
-## 為什麼這份檔案重要
+## 故事
 
-2023-09-12 墨西哥國會舉行了**全球第一次官方國會關於外星生命議題的聽證會**。墨西哥記者 **Jaime Maussan** 與美國海軍前 F/A-18 飛行員 **Ryan Graves**（曾在 2023-07 美國國會 UAP 聽證證詞）作為主要證人出席。Maussan 展示了兩具所謂「非人類存在」的乾屍（後來被科學家鑑定為人為偽造）；Graves 公開對 Maussan 的「unsubstantiated stunt」（無根據的噱頭）表達失望。
+2023-09-12，墨西哥城國會山莊，全世界第一場官方國會層級的外星生命聽證會。議題：把 UAP 條款寫進 Mexican Aerial Space Protection Law；若通過，墨西哥就是第一個立法承認外星生命存在的國家。
 
-聽證會的法律目的：審議將 UAP 條款納入 Mexican Aerial Space Protection Law 的語言；若通過，墨西哥將是**第一個正式承認地球上存在外星生命的國家**（en formato legal）。
+兩位主要證人。墨西哥記者 Jaime Maussan 站在議員席前，搬出兩具乾屍，宣稱是「非人類存在」（後來被墨西哥法醫科學研究所與秘魯文化部鑑定為人類嬰兒骨骼加駱駝/羊駝骨骼拼接的偽造物）。另一位是前美國海軍 F/A-18 飛行員 Ryan Graves，2023-07 才在美國國會 UAP 聽證證詞。聽證後 Graves 公開表達失望：Maussan 的「unsubstantiated stunt」（無根據的噱頭）把他與其他飛行員的嚴肅 UAP 經驗一起拖下水。
 
-美使館 cable 把這個 UAP 事件當作每週政治簡報的常規條目處理（與 Mexico City Security Secretary 換人、MORENA 黨內選舉爭議、Guerrero 檢察官被殺等並列），收件人包括 NSC、CIA、DIA、USNORTHCOM、DHS、ONI 等。
+四天後，2023-09-16，美駐墨西哥大使館（Salazar 大使簽）把這件事寫進 Weekly Political Blotter，第 11 條，跟 Mexico City Security Secretary 換人、MORENA 黨內選舉、Guerrero 檢察官被殺等內政條目並列。收件單位：NSC、OVP、ONI、CIA、DIA、USNORTHCOM、DHS、DOJ。State Dept 沒評論 Graves 的證詞嚴肅性，也沒評論 Maussan 的偽造物，只寫了一句：「Scientists have discredited previous alleged alien corpses Maussan presented as evidence of alien life.」
 
-歷史意義：
-
-1. **首次官方國會層級 UAP 聽證 + 「外星屍體」展示**：在墨西哥這個美國緊鄰、與美 NORTHCOM 軍事合作密切的國家發生，State Dept 必須報告。
-2. **Maussan vs. Graves 的公開對立**：兩位重要 UAP 議題公眾人物在同場聽證中分裂，Graves 代表「嚴肅的飛行員目擊 + 美國國會聽證後續」傳統；Maussan 代表「奇觀展示 + 偽造證物」傳統。
-3. **本檔案是「兩派 UAP 敘事公開分裂」進入美國國務院 cable 的時刻**：State Dept 透過 cable 同時把 Graves 的「嚴肅證詞」與 Maussan 的「unsubstantiated stunt」併陳，但對二者沒有評價。
+這份是 5 份國務院 UAP cable 中唯一的實質 UAP 內容。其他 4 份（PNG, Kazakhstan, Tbilisi, Ashgabat）都是政治脈絡裡剛好出現 UFO 一詞，這份是 2023 年 UAP 議題進入 NORTHCOM 與情報界例行政治簡報的時刻。1952 年 Samford 給 Nitze 的飛碟摘要還是跨機構特殊事件，2023 年的處理已是 weekly blotter 第 11 條。71 年的議題正常化軌跡。
 
 ## 1. 主文
 

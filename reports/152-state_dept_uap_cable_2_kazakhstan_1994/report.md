@@ -14,13 +14,15 @@
 
 ![cover](cover.jpg)
 
-## 為什麼這份檔案重要
+## 故事
 
-5 份國務院 UAP cable 中內容最具實質目擊密度的一份。1994-01-27 Tajik Air Chief Pilot Ed Rhodes（美國公民）與 2 名美籍同事在 Boeing 747SP 上、41,000 ft、北緯 45°、東經 75° 哈薩克上空目擊一個 UAP：物體從東方地平線高速接近、在他們前方更高空盤旋 40 分鐘做圓圈、開瓶器螺旋與 90 度高速急轉，伴有極高 G 力，最後沿水平高速軌跡消失在地平線。45 分鐘後日出，機組看到該物體留下的 contrail，估計高度約 100,000 ft（30,480 m），路徑反映其原本機動的圓圈與開瓶器形狀。
+1994-01-27 凌晨，Tajik Air 首席飛行員 Ed Rhodes 駕 Boeing 747SP 飛在哈薩克上空 41,000 ft（45°N, 75°E）。同機艙還有兩名美籍 PanAm 退役同事。他先在東方地平線上看到一道光，極強、極亮、高度遠高於 747SP，朝他們飛來。
 
-Captain Rhodes 用 pocket Olympus 相機拍下幾張高速照片，明確表示物體不像流星或太空垃圾，速度與機動性「seemed to support... extraterrestrial and under intelligent control」。美使館以 UNCLASSIFIED 級別發出，TAGS 包含 OES（Oceans, Environment, Science）作為 Action，CIA + DIA 抄送，顯示 1994 美國政府對「美籍商務飛行員在前蘇聯空域目擊 UAP」的標準處理流程。
+接下來 40 分鐘，這個物體在他們前方更高空盤旋，做圓圈、開瓶器螺旋、90 度高速急轉，G 力遠超人類耐受上限。Rhodes 抽出口袋裡的 Olympus 相機按了幾張，物體最後沿水平高速軌跡消失。45 分鐘後日出，747SP 飛入物體留下的 contrail 底下。Rhodes 用工程語言比喻：那條 contrail 像「高速攝影下子彈的 bow wave」，估計高度 100,000 ft，在那個高度普通飛機不可能凝結 contrail，路徑形狀剛好是剛剛看到的圓圈與開瓶器。
 
-電報的 COMMENT 段非常短：「WE HAVE NO OPINION AND REPORT THE ABOVE FOR WHAT IT MAY BE WORTH.」（我們沒有意見，僅就所聞如實上報，留待參酌。）展示 1994 國務院 cable 處理 UAP 的官方立場：不評論、不評估、純記錄。
+兩天後，1-29，Rhodes 與兩位同事找上美駐 Dushanbe 大使館。美使館（Escudero 簽署）在 1-31 發出本電報，TAGS 含 OES（Oceans, Environment, Science）作 Action、CIA + DIA 抄送，級別 UNCLASSIFIED。電報 COMMENT 段一句話：「WE HAVE NO OPINION AND REPORT THE ABOVE FOR WHAT IT MAY BE WORTH.」（我方無意見，僅就所聞如實上報，留待參酌。）
+
+這份是 5 份國務院 UAP cable 中目擊細節最濃的一份。其他幾份（PNG 1985、Tbilisi 2001、Ashgabat 2004）多半是「政治脈絡 + UFO 一詞」，這份是飛行員的工程描述加 ET 主張：Rhodes 直接說，憑速度與機動性，物體是 extraterrestrial 且 under intelligent control。
 
 ## 1. 遭遇場景
 

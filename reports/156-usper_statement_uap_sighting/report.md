@@ -11,11 +11,15 @@
 
 ![cover](cover.jpg)
 
-## 為什麼這份檔案重要
+## 故事
 
-這是 War Department 釋出的 2023-2025 期間美國西部 UAP 多目擊事件中唯一一份以 SECRET // NOFORN 級別釋出、且明確提到「multiple orbs / pursue military aircraft / flare up flare down 循環」的書面證詞。WITNESS 1 是資深美國情報官員（senior US intelligence official），搭乘有 FLIR + NVG 的直升機（[CALL SIGN 1]）進行為期六小時的搜索與觀測。
+2025 年某日下午 5 點，一位資深美國情報官員（WITNESS 1）和另一位資深情報官員（WITNESS 2），帶著 [STATE PARTNER ORGANIZATION] 兩名飛行員，搭一架配 FLIR 加 NVG 的直升機（呼號 [CALL SIGN 1]），從 [OPERATIONS CENTER] 起飛，要去搜山。山頭西邊就在 [FACILITY] 範圍內，先前有目擊者通報過 orbs/lights，還聽到「東西掉到地面的撞擊聲」。
 
-整份文件以時間戳結構記錄：1700 起飛、1751 抵山區、2050 完成測試、2141 至 [SITE CODE NAME] + 2218 至 [SITE CODE NAME] 期間光球觀測群、2218 開始的「swarm of lights in all directions」、2222 至 2257 三段「five-six orbs flare up」+ 「flare down in opposite order」、2306 任務告一段落、2316 燃料偏低返航、2320 與 [FEDERAL PARTNER AIRCRAFT] 對向飛過。
+6 小時後，事情變得不太對勁。22:18，直升機停在 [COORDINATES] 等指示，飛行員（NVG）與 WITNESS 1（裸眼）同時看到「無法計數」的光球從所有方向湧出，整體朝南。JOC 通報軍機（[MILITARY AIRCRAFT]）兩分鐘到場支援。22:27 起，5-6 顆橙色光球在直升機西邊主旋翼盤上方出現，先兩顆並排亮起，再一顆、又一顆從下方往上長，10 秒內 5-6 顆排成水平編隊，然後依「相反順序」一個個熄滅。
+
+22:28、22:31、22:41、22:52、22:57 連續五次同樣的「flare up 一個個亮起、flare down 相反順序熄滅」循環。位置在山頂上方、軍機上方、[LOCAL TOWN] 上方輪流出現。WITNESS 1 結語只有一句話：「The orbs appeared to break off from [CALL SIGN 1] and pursue the [MILITARY AIRCRAFT]」（光球從直升機旁離開、然後追擊軍機）。
+
+這份是 War Department 釋出的 2023-2025 美國西部 UAP 多目擊事件中唯一一份 SECRET // NOFORN 書面證詞，含 multiple orbs、pursue military aircraft、flare up flare down 循環。WITNESS 1 是資深情報官員親口記述，FLIR + NVG + 裸眼 + JOC + LP/OP + 軍機多平台同步。
 
 關鍵觀察：
 

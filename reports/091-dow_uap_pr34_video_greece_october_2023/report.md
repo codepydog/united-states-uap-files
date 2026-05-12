@@ -2,7 +2,7 @@
 
 ![cover](cover.jpg)
 
-PR34 是 Part 1 中含有 blue-cross sensor lock 的代表性案例。MQ-9 的 MTS-B sensor 在 auto-track 鎖定後會在目標上疊一個藍色十字 reticle，PR34 在 1 分鐘標記出現藍色十字、2m22s 失鎖。這個鎖定—失鎖序列是評估 UAP 機動性的重要線索。
+PR34 是 Part 1 14 份 PR 影片中明顯出現 blue-cross sensor lock 的條目之一。MQ-9 的 MTS-B sensor 在 auto-track 鎖定後會在目標上疊一個藍色十字 reticle，PR34 在 1 分鐘標記出現藍色十字、2m22s 失鎖。鎖定到失鎖的時間序列可以反推 UAP 的機動行為。
 
 ## 影片內容
 
@@ -23,7 +23,7 @@ PR34 2 分 57 秒影片正是 D33「3 分鐘觀測」的完整記錄。藍色十
 
 ## 為什麼這份未解
 
-D33 + PR34 是 D 系列中「機動性最反直覺」的案例：
+D33 + PR34 在 D 系列中機動描述特殊（80 MPH 直線飛行+多次 90 度直角轉彎）：
 
 - 80 MPH 速度低（接近 light aircraft），但「多次 90 度直角轉彎」無慣性符合性
 - 90 度急轉若是固定翼平台需數秒，若是旋翼或氣球可行但 80 MPH 速度與旋翼不符

@@ -39,7 +39,7 @@
 | D32（敘利亞 plasma）| 45 分鐘（5 次離散事件） |
 | **D52（US Aircraft）** | **OVER 2 HOURS** ✨ |
 
-**D52 是 D 系列首份「單一連續觀測 > 1 小時」案件**。對應「**likely moving at a low speed**」描述，意味該 UAP 在 sensor 視野中**幾乎靜止或極慢漂浮**，機組能維持持續鎖定超過 120 分鐘。
+D52 是 D 系列「單一連續觀測 > 1 小時」案件。對應「likely moving at a low speed」描述，意味該 UAP 在 sensor 視野中幾乎靜止或極慢漂浮，機組能維持持續鎖定超過 120 分鐘。
 
 「**The U.S Aircraft had eyes on the poss UAP for over 2 hours**」是極不尋常的觀測模式：
 - 對普通 MQ-9 Reaper（loiter 時間 14-27 小時）：可行
@@ -137,11 +137,11 @@ D52 是 D 系列第 2 份 PAROC 對話文件（前案為 D50）：
 
 **(1) D52 是 D 系列「最長單一觀測」案件**：> 2 小時持續觀測，超越其他案件最長（D32 45 分鐘離散事件）。對應 sensor 平台必須具備長滯空能力（MQ-9 Reaper 或長航時偵察機）+ 物體本身穩定可追蹤。
 
-**(2) D 系列 PAROC 多單位確認**：D50（12 AF/DET 3）+ D52（15 AF/DET 1）共同確認 PAROC 是跨多 numbered Air Force 的標準化角色。**未來 D 系列 email 案件可能還有 16 AF / 1 AF / 18 AF / 25 AF 等其他 numbered Air Force 的 PAROC 出現**。
+**(2) D 系列 PAROC 多單位確認**：D50（12 AF/DET 3）+ D52（15 AF/DET 1）共同確認 PAROC 是跨多 numbered Air Force 的標準化角色。未來 D 系列 email 案件可能還有 16 AF / 1 AF / 18 AF / 25 AF 等其他 numbered Air Force 的 PAROC 出現。
 
-**(3) D 系列「分階段批准 tearline 元素」首次紀錄**：D52 揭示 tearline 的釋出**並非整體批准，而是逐字段分階段審查**。本案先批准 "31 OCT"（月+日），再單獨補申請 "2024"（年份）。**意味每一個 metadata 元素都可能被視為 classified 處理**。
+**(3) D 系列「分階段批准 tearline 元素」紀錄**：D52 揭示 tearline 的釋出並非整體批准，而是逐字段分階段審查。本案先批准 "31 OCT"（月+日），再單獨補申請 "2024"（年份）。意味每一個 metadata 元素都可能被視為 classified 處理。
 
-**(4) D 系列「NA」AOR 標記首次**：D50 用 INDOPACOM，D51 用 Pacific Time Zone，D52 用 NA。「NA」（Not Available）意味該案 AOR 仍未經批准公開。對比 D52 同時批准「2024 年份」釋出，**AOR 是更敏感的元素**，需要更高層級審查。
+**(4) D 系列「NA」AOR 標記**：D50 用 INDOPACOM，D51 用 Pacific Time Zone，D52 用 NA。「NA」（Not Available）意味該案 AOR 仍未經批准公開。對比 D52 同時批准「2024 年份」釋出，AOR 是更敏感的元素，需要更高層級審查。
 
 **(5) PDF 內部 metadata 「DoW-UAP-D30」是 D 系列第 4 次連續 off-by-22 metadata 錯誤**：D49 → D27, D50 → D28, D51 → D29, **D52 → D30**。**4 次連續、無例外的 22 號偏移**，強烈支持「DOW 上傳系統有 22 號 ID mapping bug」的假設。可能在 D 系列 D-列表中，前 22 個 ID（D1-D26）為已釋出案件，後續 D27+ 為新釋出，DOW PDF metadata 系統將後續 D 編號的 PDF 自動填入 D-22 編號（即映射到舊釋出 D 編號）。
 
@@ -162,5 +162,5 @@ D52 是 D 系列第 2 份 PAROC 對話文件（前案為 D50）：
 - 寄件方：USD(I&S) Information Disclosure Analyst
 - 回應方：15 AF / DET 1 PAROC Intel Data Analysis Technician
 - 公開日：2026-05-08
-- 注意：War.gov 標題 "Email Correspondance, NA, August 2024" 與 tearline 中明確的「31 OCT 24」日期不符——標題寫 August（8 月），實際觀測為 October（10 月）。可能對應 email 對話起始月份（8 月）vs. 觀測月份（10 月）的差異，或 DOW 標題填寫錯誤。**注意：標題拼字 "Correspondance" 為錯字（正確拼法 Correspondence）**，是 DOW 標題單字拼錯誤。
+- 注意：War.gov 標題 "Email Correspondance, NA, August 2024" 與 tearline 中明確的「31 OCT 24」日期不符（標題寫 August 8 月，實際觀測為 October 10 月）。可能對應 email 對話起始月份（8 月）vs. 觀測月份（10 月）的差異，或 DOW 標題填寫錯誤。標題拼字 "Correspondance" 為錯字（正確拼法 Correspondence），是 DOW 標題單字拼錯誤。
 - PDF 內部 metadata 標題誤標為 "DoW-UAP-D30"，是 D 系列第 4 次連續 off-by-22 metadata 錯誤。

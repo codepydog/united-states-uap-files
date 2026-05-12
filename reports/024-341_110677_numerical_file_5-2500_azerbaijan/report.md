@@ -19,7 +19,7 @@
 
 1955-10-04 1910 時，三名美國參議院武裝部隊委員會（Senate Armed Services Committee）成員在蘇聯外高加索鐵路上，從車廂窗戶看到兩個飛碟先後從南邊起飛、垂直升空、爬升到約 6000 英尺後突然加速北飛。三名目擊者：
 
-- **Senator Richard B. Russell Jr.**（民主黨喬治亞州，參議院武裝部隊委員會主席，後來成為冷戰中美軍方預算最重要的守門人之一）
+- **Senator Richard B. Russell Jr.**（民主黨喬治亞州，參議院武裝部隊委員會主席 1951-69，後任參議院臨時議長 1969-71）
 - **Lt Col Edmund U. Hathaway**（陸軍上校，武裝部隊委員會軍事參謀）
 - **Mr. Ruben Efron**（武裝部隊委員會顧問）
 
@@ -75,7 +75,7 @@ Russell-Hathaway-Efron 三人 1955 年 10 月初的旅程，按報告整理：
 
 > Hathaway led off with "I doubt if you're going to believe this but we all saw it. Sen. Russell was the first to see this flying saucer and he called us to the window, and we both saw the second one (pointing to EFRON who nodded yes). We've been told for years that there isn't such a thing but all of us saw it, including Sen Russell."
 
-> Hathaway 一開始就說「我懷疑你會不會相信這件事，但我們都看到了。Russell 參議員是第一個看到這個飛碟的人，他叫我們去窗邊，然後我們兩個都看到了第二個（指著 EFRON，EFRON 點頭表示同意）。多年來我們被告知這種東西不存在，但我們所有人——包括 Russell 參議員——都看到了」。
+> Hathaway 一開始就說「我懷疑你會不會相信這件事，但我們都看到了。Russell 參議員是第一個看到這個飛碟的人，他叫我們去窗邊，然後我們兩個都看到了第二個（指著 EFRON，EFRON 點頭表示同意）。多年來我們被告知這種東西不存在，但我們所有人（包括 Russell 參議員）都看到了」。
 
 ## 3. 詳細描述：18 條問答記錄
 

@@ -107,7 +107,7 @@
 
 **「Credible observers are reporting the incredible」**：Samford 1952-07-29 記者會的招牌句。本檔案 7-28 已經有引號形式紀錄，意味這個措辭是 Samford 自己定型的，而非記者會臨場發明。
 
-**「Radar observation may have elements of 'electronic fluke,' but is sufficiently tied in with pilot observation so that it cannot be attributed entirely to this」**：對 1952-07 Washington UFO 事件（雷達 + F-94 飛行員雙重觀察）的官方解釋。Samford 不否認雷達訊號可能是「電子幻象」（atmospheric ducting，是當時的主流官方解釋），但承認飛行員目擊不能完全用雷達失常解釋。
+**「Radar observation may have elements of 'electronic fluke,' but is sufficiently tied in with pilot observation so that it cannot be attributed entirely to this」**：對 1952-07 Washington UFO 事件（雷達 + F-94 飛行員雙重觀察）的官方解釋。Samford 不否認雷達訊號可能是「電子幻象」（atmospheric ducting，是當時 USAF 對外的標準解釋），但承認飛行員目擊不能完全用雷達失常解釋。
 
 **「The Air Force views the flying saucers as a threat only because they are not understood」**：飛碟在 USAF 眼中是「未知 = 威脅」，不是「外星 = 威脅」或「俄國 = 威脅」。
 

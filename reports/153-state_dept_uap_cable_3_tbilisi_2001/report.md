@@ -14,13 +14,13 @@
 
 ![cover](cover.jpg)
 
-## 為什麼這份檔案重要，但不是因為 UFO
+## 故事
 
-這份外交電報的標題是「UFOS OVER GEORGIA」，但**內容與 UFO 目擊事件無關**。它是 2001-10-29 期間 Russia-Georgia Kodori Gorge 危機的政治電報，俄羅斯外交部副部長 Tereoken 在被美國大使 Vershbow 質問「俄國戰機是否轟炸 Kodori Gorge」時，用「reports of planes in the area might as well have been about UFOs」當作鬼話搪塞，意思是「不是俄國飛機，可能是 UFO」。
+2001-10-30，美國駐莫斯科大使 Alexander Vershbow 發出一封電報，標題是「UFOS OVER GEORGIA; STRANGE ENCOUNTERS OF AN MFA KIND」。打開來看，內容跟 UFO 完全無關。
 
-美使館 POL Officer 用「STRANGE ENCOUNTERS OF AN MFA KIND」（外交部式的奇異遭遇）作為標題雙關，把這個電報歸入 PREL（政治關係）+ MARR（軍事關係）等正規 TAGS，UFO 不是它的真正主題。
+兩天前，2001-10-28 與 10-29，Georgia 政府指控俄羅斯戰機越境轟炸 Kodori Gorge（Abkhazia 邊境的 Georgian 政府控制區）。Vershbow 大使隔天找俄羅斯外交部對質。Georgia 桌主任 Tereoken 否認俄機越境，加了一句話：「reports of planes in the area might as well have been about UFOs」。意思是：那些飛機目擊報告也可能是飛碟，言下之意荒謬到不需要回應。莫斯科「沒有技術能力」確認該區域是否有外國飛機，「任何一方」都有可能派飛機飛過去。
 
-但這份電報被收錄到 War Department 2026-05-08 UAP 釋出包，意味國務院/國防部在審視全部歷史 cable 時，**用「UFO」關鍵字檢索抓出來的東西包括「外交修辭中的 UFO 比喻」**，而不只是真實 UFO 目擊。這份電報的歷史價值在於展示「國務院 UAP 檔案分類」的不精確性，並間接揭示 2001 年 Russia-Georgia 危機背景。
+Vershbow 在 COMMENT 段直接點破：「TO POSIT THAT THEY COULD BE UFOS WOULD BE HUMOROUS IF IT WERE NOT FOR THE SERIOUSNESS OF THE VIOLATIONS.」這份電報沒有 UFO 目擊內容，但被 War Department 2026-05-08 釋出包以「UFO」關鍵字撈出來，列入 161 份 UAP 檔案的一份。這份檔案對 UAP 研究的價值在於兩個方向：一是顯示國務院 UAP 檔案分類的鬆散性（關鍵字檢索把「UFO 修辭比喻」與「真實 UFO 目擊」混在一起），二是側錄 2001 年 Russia-Georgia 危機背景下俄方否認術的歷史定型。
 
 ## 1. 政治背景
 

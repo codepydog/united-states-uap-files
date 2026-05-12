@@ -2,7 +2,7 @@
 
 ![cover](cover.jpg)
 
-PR45 是 PR 系列中少數 AARO 在公開時主動加註「**官方解釋備註**」的影片之一。AARO 在 caption 寫明：「**The apparent growth of the contrast region may be attributable to a reduction in the slant range between the observing platform and the target**」（對比區看似變大可能來自觀測平台與目標的斜距縮短）。
+PR45 比較不尋常的地方在 caption 而不在影片本身。AARO 公開時主動加了一句解釋：「The apparent growth of the contrast region may be attributable to a reduction in the slant range between the observing platform and the target」（對比區看起來變大，可能是觀測平台對目標的斜距縮短了）。換句話說 AARO 想先擋掉一種誤讀：別把「畫面裡變大」當成「物體在膨脹」。
 
 ## 影片內容
 

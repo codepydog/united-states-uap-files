@@ -49,7 +49,7 @@ D12 是 19 小時跨界 MQ-9 任務：
 
 **OKAS（Ali Al Salem Air Base）**：美軍科威特主要 MQ-9 起降基地，距離伊拉克邊境約 60 km。Reaper 從這裡升空後切換給遠端主控（CONUS 內陸 March ARB 或 Holloman AFB 之類），任務結束再切回 LRE 降落。
 
-**OP PHANTOM FLEX**：根據可公開資料，PHANTOM 系列是 USCENTCOM 對伊拉克／敘利亞區域代理人威脅監控行動的代號之一。MAG 支援指向 2022-05 SDF（敘利亞民主部隊）— 伊拉克 PMF（Popular Mobilization Forces，伊朗代理人）邊界張力期間的監視行動。
+**OP PHANTOM FLEX**：根據可公開資料，PHANTOM 系列是 USCENTCOM 對伊拉克／敘利亞區域代理人威脅監控行動的代號之一。MAG 支援指向 2022-05 SDF（敘利亞民主部隊）／伊拉克 PMF（Popular Mobilization Forces，伊朗代理人）邊界張力期間的監視行動。
 
 ## 2. 觀測本身
 

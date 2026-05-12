@@ -1,6 +1,6 @@
 # #075 DOW-UAP-D7：5/6 頁全黑遮蔽，最後一頁出現 "WEAPONS QUALITY 1 TRACK" + "NEXT TO SHOOT" + balloon-like
 
-![page-1](page-1.jpg)
+![page-6](page-6.jpg)
 
 高度遮蔽的 D 系列案件。6 頁 MISREP，前 5 頁完全 1.4(a) 遮蔽，整頁黑底配紅色 "1.4(a)" 大字，沒有任何欄位、時間戳、座標、單位資訊可讀。但第 6 頁突然冒出一段 GENTEXT/UAP，包含兩個動能語意較強的 GENTEXT 用詞：WEAPONS QUALITY 1 TRACK 與 NEXT TO SHOOT，加上一條跨單位線索：SIMILAR TO PREVIOUSLY REPORTED UAP FROM 48FW。
 

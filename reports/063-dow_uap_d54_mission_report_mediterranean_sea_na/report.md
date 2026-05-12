@@ -1,4 +1,4 @@
-# #063 DOW-UAP-D54：13:19Z 友軍機 RTB 中於東 Aegean Sea 座標 36°34'53"N 25°59'43"E（希臘 Anafi / Astypalaia 島嶼附近）觀測 1 個 **「triangular 且 metallic」UAP** 於 FL250（24,989 ft MSL）以 168 KTS 飛行，**D 系列首份「metallic」描述 + 第 2 份明確三角形觀測**（前一份為 [#061 D51](../061-dow_uap_d51_email_correspondence_pacific_time_zone_march_2023/report.md) 民間人士觀測）
+# #063 DOW-UAP-D54：13:19Z 友軍機 RTB 中於東 Aegean Sea 座標 36°34'53"N 25°59'43"E（希臘 Anafi / Astypalaia 島嶼附近）觀測 1 個「triangular 且 metallic」UAP 於 FL250（24,989 ft MSL）以 168 KTS 飛行，D 系列首份 metallic 描述加上明確三角形觀測（前一份三角形為 [#061 D51](../061-dow_uap_d51_email_correspondence_pacific_time_zone_march_2023/report.md) 民間人士觀測）
 
 | 欄位 | 內容 |
 |---|---|
@@ -33,7 +33,7 @@ D 系列前 62 份案件的物體材質 / 外觀描述：
 - **Triangular**（D51 = civilian + blue）
 - **Featureless**（D51）
 
-D54 是**首次出現「Metallic」明確材質描述**。「Metallic」+「Triangular」共構意味：
+D54 出現「Metallic」明確材質描述。「Metallic」+「Triangular」共構意味：
 1. **物體有可見反射性（金屬光澤）**
 2. **物體有明確三角形輪廓（非氣球狀漂浮）**
 3. **物體在 FL250 中等高度、168 KTS 中等速度直線飛行**
@@ -95,24 +95,24 @@ GENTEXT/UAP（第 7 頁）：
 
 ## 3. 「Triangular + Metallic」UFO archetype 的歷史脈絡
 
-「**三角形 + 金屬**」是 UAP / UFO 文獻中最頻繁的形態組合之一。歷史上著名案例：
+「三角形 + 金屬」是 UAP / UFO 文獻中常見的形態組合。歷史上的案例：
 
 - **1989-1990 比利時三角形 UFO 浪潮**：數百份報告中多數描述為「大型三角形 + 金屬反射 / 黑色」
 - **1997-03-13 Phoenix Lights**：「巨大 V 形 / 三角形」觀測，部分描述為金屬光澤
 - **2007-04 Stephenville TX UFO 事件**：F-16 攔截一個大型三角形物體
 - **2023-2024 多份 AARO Historical Record Report 內**：1947-1969 Project Blue Book 中數十筆三角形觀測
 
-D54 是**美軍方在 2020s 內部正式 MISREP 系統中明確記錄「triangular + metallic」的少數公開案件**。
+D54 是美軍方在 2020s 內部正式 MISREP 系統中明確記錄「triangular + metallic」的少數公開案件。
 
 ## 4. 觀察
 
-**(1) D 系列首份「Metallic」材質描述**：對應 AATIP「five observables」中**未直接列出但在 UAP 文獻中重要的「金屬性反射」signature**。D 系列前案多用 solid / plasma / light / colored，D54 是首份明確「metallic」案件。
+**(1) D 系列首份「Metallic」材質描述**：對應 AATIP「five observables」中未直接列出但在 UAP 文獻中常見的「金屬性反射」signature。D 系列前案多用 solid / plasma / light / colored，D54 是明確「metallic」案件。
 
-**(2) D 系列第 2 份明確「Triangular」UAP**：對應 [#061 D51](../061-dow_uap_d51_email_correspondence_pacific_time_zone_march_2023/report.md) 的「blue + featureless triangular」（民間觀測）。**D51 + D54 共構 D 系列三角形 UAP 雙案家族**，但細節（材質、行為、速度）完全不同。
+**(2) D 系列第 2 份明確「Triangular」UAP**：對應 [#061 D51](../061-dow_uap_d51_email_correspondence_pacific_time_zone_march_2023/report.md) 的「blue + featureless triangular」（民間觀測）。D51 + D54 共構 D 系列三角形 UAP 雙案家族，但細節（材質、行為、速度）完全不同。
 
-**(3) 東 Aegean Sea 是 D 系列第 6 個希臘 / 東地中海觀測點**：對應 D14 / D25 / D33 / D35 / D5 / D54 的觀測家族。**意味 2020-2024 期間美軍在東地中海與希臘附近執行的 ISR 任務多次遭遇 UAP**。
+**(3) 東 Aegean Sea 是 D 系列第 6 個希臘 / 東地中海觀測點**：對應 D14 / D25 / D33 / D35 / D5 / D54 的觀測家族。意味 2020-2024 期間美軍在東地中海與希臘附近執行的 ISR 任務多次遭遇 UAP。
 
-**(4) 「RTB during observation」是常見模式**：對應 [#052 D35](../052-dow_uap_d35_mission_report_greece_october_2023/report.md)「RTB 時觀測 UAP」、[#045 D27](../045-dow_uap_d27_mission_report_gulf_of_oman_june_2024/report.md)「RTB 時觀測 UAP」、[#046 D28](../046-dow_uap_d28_mission_report_ayn_al_asad_iraq_september_2024/report.md)「Griffin 飛彈飛行間隙觀測」。**返航階段是友軍機觀測 UAP 的常見時段**。可能因 RTB 期間任務壓力降低、sensor 操作員有餘裕觀察與紀錄背景畫面中的異常物體。
+**(4) 「RTB during observation」是常見模式**：對應 [#052 D35](../052-dow_uap_d35_mission_report_greece_october_2023/report.md)「RTB 時觀測 UAP」、[#045 D27](../045-dow_uap_d27_mission_report_gulf_of_oman_june_2024/report.md)「RTB 時觀測 UAP」、[#046 D28](../046-dow_uap_d28_mission_report_ayn_al_asad_iraq_september_2024/report.md)「Griffin 飛彈飛行間隙觀測」。返航階段是友軍機觀測 UAP 的常見時段。可能因 RTB 期間任務壓力降低、sensor 操作員有餘裕觀察與紀錄背景畫面中的異常物體。
 
 **(5) 168 KTS + FL250 = 與 [#045 D27](../045-dow_uap_d27_mission_report_gulf_of_oman_june_2024/report.md) 的 140 KTS + 貼水面 形成對比**：D27 是貼海面圓柱物體 140 KTS，D54 是 FL250 三角金屬物體 168 KTS。**速度範圍相似（140-170 KTS），但高度與形狀差異大**，可能是不同類型的 UAP 載具。
 

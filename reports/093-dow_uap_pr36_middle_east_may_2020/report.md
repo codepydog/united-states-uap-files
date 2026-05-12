@@ -2,7 +2,7 @@
 
 ![cover](cover.jpg)
 
-PR36 是 War Department 2026-05-08 釋出的 Unresolved UAP Report 系列影片，對應 D 系列 [#053 DOW-UAP-D38](../053-dow_uap_d38_range_fouler_debrief_middle_east_may_2020/report.md)（2020-05-14 20:40Z 波斯灣海軍 ATFLIR Range Fouler Debrief，Black Hot / Linear gain，水面上方做不規則運動的圓形實體）。PR36 是該案件公開的感測器原始影片。
+2020 年 5 月 14 日波斯灣，海軍 F/A-18 用 ATFLIR pod 拍下水面上方一個做不規則運動的圓形實體，整段觀測收進機載 MISREP 編為 D38。六年後，War Department 把這段感測器原始影片公開，編號 PR36。PR36 對應 D 系列 [#053 DOW-UAP-D38](../053-dow_uap_d38_range_fouler_debrief_middle_east_may_2020/report.md)（Range Fouler Debrief，Black Hot / Linear gain，2020-05-14 20:40Z），是該案件公開的感測器原始影片。
 
 ## 影片內容
 

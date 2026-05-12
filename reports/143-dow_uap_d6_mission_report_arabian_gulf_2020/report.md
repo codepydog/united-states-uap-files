@@ -1,6 +1,6 @@
 # #068 DOW-UAP-D6：7 頁中 6 頁全黑
 
-![page-1](page-1.jpg)
+![page-7](page-7.jpg)
 
 D6 在已釋出的 D 系列裡屬於遮蔽光譜的極端端點。
 

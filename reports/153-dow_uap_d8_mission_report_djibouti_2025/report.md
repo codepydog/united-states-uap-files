@@ -4,7 +4,7 @@
 
 「6/7 頁全黑遮蔽加最後 1 頁 GENTEXT」結構案件，與 [#075 D7](../150-dow_uap_d7_mission_report_arabian_gulf_2020/report.md) 的編排幾乎一致，內容是完全不同的觀測：2X ROUND WHITE HOT UAPS DYNAMIC SOUTH AT APPROX 240NM/HOUR IVO 35SQT3423692957。
 
-機密 caveat 是 SECRET // REL TO USA, FIN, SWE, FVEY, NATO，芬蘭、瑞典（2024 加入 NATO）、FVEY、整個 NATO 都可看到原文。標題 "Djibouti, 2025"，但 MGRS 35SQT 實際在地中海東部到愛琴海方向，另一處標題與內容不符的案件。
+機密 caveat 是 SECRET // REL TO USA, FIN, SWE, FVEY, NATO，芬蘭、瑞典（2024 加入 NATO）、FVEY、整個 NATO 都可看到原文。標題 "Djibouti, 2025"，但 MGRS 35SQT 實際在地中海東部到愛琴海方向，又一份標題與內容不符的案件。
 
 ## 第 7 頁唯一可讀的 GENTEXT
 

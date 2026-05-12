@@ -2,9 +2,9 @@
 
 ![page-01](page-01.jpg)
 
-2023-11-09，OP INHERENT RESOLVE 任務中的一架 USAF ISR 機在敘利亞執行 TARGET DEVELOPMENT 任務，從 08:05Z 到 19:33Z 共 11 小時 28 分鐘監控一個 VEO（violent extremist group）的住處與一輛白色 SUV 帶後掛備胎。任務即將結束 RTB 過程中，21:53Z 飛機觀測到「1 個 probable HC UAP shaped as a bouncy ball」從南方接近、降低高度、安全通過該機，維持 ~424 KN 速度持續 7 分鐘後出脫離視距。
+2023-11-09 那天，USAF 一架 ISR 機在敘利亞執行 OP INHERENT RESOLVE 反 ISIS 監視任務，全天盯住一棟住宅與一輛帶後掛備胎的白色 SUV，從 08:05Z 看到 19:33Z 共 11 小時 28 分。任務結束 RTB 的路上，21:53Z 機組看到「1 個 probable HC UAP shaped as a bouncy ball」從南方接近、降低高度、安全擦肩而過，以 424 節等速持續 7 分鐘才脫離視距。
 
-這份 MISREP 用了完整 41 欄 UAP 資料卡格式，shape / state / propulsion / signatures / advanced capabilities / first 與 last coordinates / radius / kinetic altitude 全部填表。
+這份 MISREP 把完整 41 欄 UAP 資料卡格式填好填滿，shape / state / propulsion / signatures / advanced capabilities / first 與 last coordinates / radius / kinetic altitude 都有值。
 
 ## 任務時間軸（OP INHERENT RESOLVE 反 ISIS / VEO）
 

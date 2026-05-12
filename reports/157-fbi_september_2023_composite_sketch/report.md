@@ -10,11 +10,13 @@
 
 ![cover](cover.jpg)
 
-## 為什麼這份檔案重要
+## 故事
 
-War Department 2026-05-08 釋出包中唯一一份視覺合成草圖。FBI 依目擊者證詞繪出 2023-09 美國西部試驗場 UAP 事件的視覺重建：背景為晴朗天空、樹線、草地、混凝土道路；前景中上方為**銅金屬色橢球體**，下方左側放射出強烈藍白色光芒。
+2024-04-30，FBI 實驗室坐下來，依目擊者證詞畫了一張合成草圖。內容：晴朗天空、地平線樹林、草地、混凝土道路；畫面中上方是一顆銅金屬色橢球體，下方左側射出強烈藍白光，光內有條帶。
 
-這份單頁草圖是 War Department 2026-05-08 釋出包中與 #158-#160 三份 FBI 302 訪談記錄相對應的視覺證據。其中 #159（含目擊者描述「cigar shaped object」「metallic bronze in color」「length of two or three Blackhawk helicopters」「diamond white light pointing south east and looking at it (the light) was like looking into the sun」）的證詞與草圖呈現的視覺特徵直接對應。
+這張草圖的證詞基礎是 #159 FBI 302（試驗場主管，2023-09 某日 07:15-07:30，限飛區內目擊）：「cigar shaped object」、「metallic bronze in color」、「length of two or three Blackhawk helicopters」、「diamond white light pointing south east and looking at it (the light) was like looking into the sun」。FBI 合成草圖通常用於刑事案件嫌犯重建，這次用在 UAP 目擊上，是極少見的應用。
+
+兩年後，2026-05-08，這張草圖隨 War Department UAP 釋出包公開，成為 161 份檔案中唯一一份視覺重建。
 
 ## 1. 視覺要素拆解
 

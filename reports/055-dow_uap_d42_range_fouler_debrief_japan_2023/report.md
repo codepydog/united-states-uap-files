@@ -1,4 +1,4 @@
-# #055 DOW-UAP-D42：2020-08-31 黃昏，AFRC 482 ATKS MQ-9 機組（O-2 Pilot）在 39R WL grid 觀測 3 個同形物體互相超越，原 1 個追蹤→第 2 個高速超越→最終 3 個同時在畫面中互動
+# #055 DOW-UAP-D42：2020-08-31 黃昏，AFRC 482 ATKS MQ-9 機組（O-2 Pilot）在 39R WL grid 觀測 3 個同形物體互相超越，原 1 個追蹤、第 2 個高速超越、最終 3 個同時在畫面中互動
 
 | 欄位 | 內容 |
 |---|---|
@@ -25,9 +25,9 @@
 
 ![form](form.jpg)
 
-## 為什麼 D42 顯示「Multiple UAP 相互超越 + 互動」是 D 系列罕見三體案
+## 為什麼 D42 是 D 系列三體互動案
 
-D 系列其他案件多為**單一 UAP 觀測**（D33, D35, D38, D27, D19）或**單一觀測時刻多 UAP**（D3 = 4 個分 3 波；D20 = 10-20 個於 FL600+ 散布；D23 = 2 個）。D42 是少數**連續觀測中物體數量動態變化**的案例：
+D 系列其他案件多為單一 UAP 觀測（D33, D35, D38, D27, D19）或單一觀測時刻多 UAP（D3 = 4 個分 3 波；D20 = 10-20 個於 FL600+ 散布；D23 = 2 個）。D42 是少數連續觀測中物體數量動態變化的案例：
 
 1. **T0**：機組觀測 1 個物體 → 開始追蹤
 2. **T1**：第 2 個物體出現，**形狀與大小相同但速度遠快於第一個**，超越第一個
@@ -39,7 +39,7 @@ D 系列其他案件多為**單一 UAP 觀測**（D33, D35, D38, D27, D19）或*
 - **獨立物體偶然在同一畫面**：3 物體無關聯，各自飛行
 - **協同行動**：3 物體有目的地相對移動（如包圍、追擊、組編）
 
-「**Apparent Propulsion checked**」進一步指出機組觀察到可見的**推進跡象**（如熱羽、尾跡、燈光），是 D 系列中少數明確標示物體有推進可見的案件。
+「**Apparent Propulsion checked**」進一步指出機組觀察到可見的推進跡象（如熱羽、尾跡、燈光），是 D 系列中明確標示物體有推進可見的案件。
 
 ## 1. 飛行員親述
 
@@ -111,13 +111,13 @@ D 系列其他案件多為**單一 UAP 觀測**（D33, D35, D38, D27, D19）或*
 
 **(1) D42 + D18 構成 AFRC 482 ATKS 跨年觀測對**：D18 = 2022-12-01 Iraq, D42 = 2020-08-31 39R WL（波斯灣）。482 ATKS 是 Homestead ARB FL 的 AFRC Reaper 部隊，**至少累積 2 份 D 系列 UAP 通報**。
 
-**(2) D 系列首次「同形不同速」描述**：物體 #2 surpassed 物體 #1 + 同 size/shape 但 much higher speed。對照 D20「10-20 個亮物中個別速度不同」、D33「90 度直角轉彎」，D42 提供**多物體 + 速度差異 + 互動**的 signature。
+**(2) D 系列「同形不同速」描述**：物體 #2 surpassed 物體 #1，同 size/shape 但 much higher speed。對照 D20「10-20 個亮物中個別速度不同」、D33「90 度直角轉彎」，D42 提供多物體 + 速度差異 + 互動的 signature。
 
 **(3) MDR 26-0028 與 D33-D38 不同批次**：D33 / D35 / D38 在 MDR 26-0019，D42 在 MDR 26-0028。**MDR 26-0028 釋出時間 2026-03-16，比 26-0019 晚 53 天**。意味 D42 解密晚於 D33/D35/D38。可能因 D42 涉及 AFRC（vs. USAF 主力部隊）需額外審查程序。
 
 **(4) FOUO/PA applies 是 D 系列特殊註記**：FOUO（For Official Use Only）+ PA（Privacy Act applies）意味即使解密，**仍保留官方使用限制**（用於官方通信）+ **隱私法適用**（涉及個人識別資訊保護，即使 SPEAR 已去識別化）。對照其他 D 系列無此註記。
 
-**(5) 「形狀: Other Shape」+「Apparent Propulsion: checked」**：表格 8 種形狀（Round / Square / Balloon-shaped / Wings/Airframe / Other Shape）中勾選「Other Shape」，意味物體形態不屬於常見類別。同時「Apparent Propulsion」勾選，意味機組看到可見推進跡象（不像普通氣球）。這是**形態異常 + 推進異常的雙重 signature**。
+**(5) 「形狀: Other Shape」+「Apparent Propulsion: checked」**：表格 8 種形狀（Round / Square / Balloon-shaped / Wings/Airframe / Other Shape）中勾選「Other Shape」，意味物體形態不屬於常見類別。同時「Apparent Propulsion」勾選，意味機組看到可見推進跡象（不像普通氣球）。這是形態異常加上推進異常的雙重 signature。
 
 ## 6. 跨檔案連結
 

@@ -2,7 +2,7 @@
 
 ![cover](cover.jpg)
 
-PR49 是 PR 系列中時間最新（2026）且通報單位明確為 **Department of the Army**（美國陸軍部）的 IR 影片，AARO 公開時無對應 D 系列 MISREP。本片是 PR 系列中首份來自陸軍的影片，與其他 PR（多為 Navy / Air Force ISR 任務）通報來源不同。
+PR49 在 PR 系列裡兩個面向都是首例：年份最新（2026），通報單位是 Department of the Army（美國陸軍部）。其他 PR 多半來自 Navy ATFLIR 或 Air Force MQ-9，這份卻是陸軍。陸軍 IR 平台（Apache TADS、Black Hawk FLIR、FAAD 光電感測器）多用於戰術近距支援，觀測高度與距離尺度比 Navy/Air Force ISR 小，目標也可能更接近地面。畫面中央雙亮點伴著淡淡斜向尾跡，是這份案件的視覺簽名。
 
 ## 影片內容
 

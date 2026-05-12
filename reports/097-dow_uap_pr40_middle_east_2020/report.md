@@ -2,7 +2,7 @@
 
 ![cover](cover.jpg)
 
-PR40 是 PR 系列中少數帶有官方 HUD 標註（annotation overlay）的影片，AARO 在第 10 秒附近以白色圓圈與引線指向目標，文字標籤寫明「**U/I SMALL THERMAL SIGNATURE**」（Unidentified Small Thermal Signature，未識別的微小熱訊號）。
+PR40 是 PR 系列裡 AARO 親自下了 label 的少數案件之一。影片進到第 10 秒，畫面跳出一個白色圓圈，引線拉到右側標籤框，黑底白字寫著「U/I SMALL THERMAL SIGNATURE」（未識別的微小熱訊號）。圈住的東西小到佔不到畫面 5%，沒有距離、沒有絕對尺寸資料，但 AARO 還是覺得值得用 overlay 把它指出來。
 
 ## 影片內容
 

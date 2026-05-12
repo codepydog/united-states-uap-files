@@ -1,4 +1,4 @@
-# #060 DOW-UAP-D50：2025-04-10 / 2025-04-11 USD(I&S) Information Disclosure Analyst 與 12 AF / DET 3 PAROC Intel Data Analysis Technician Team Lead 之間的解密工作流程 email 對話，**首份 INDOPACOM AOR 案件 + 首份解密流程文件**，內含兩筆獨立 UAP tearline 觀測
+# #060 DOW-UAP-D50：2025-04-10 / 2025-04-11 USD(I&S) Information Disclosure Analyst 與 12 AF / DET 3 PAROC Intel Data Analysis Technician Team Lead 之間的解密工作流程 email 對話，首份 INDOPACOM AOR 案件，內含兩筆獨立 UAP tearline 觀測
 
 | 欄位 | 內容 |
 |---|---|
@@ -19,9 +19,9 @@
 
 ![p-01](p-01.jpg)
 
-## 為什麼 D50 是 D 系列方法論最重要的單一文件
+## 為什麼 D50 揭示 D 系列方法論
 
-前 59 份 D 系列檔案都是「**UAP 觀測本體**」的文件（MISREP、SPEAR 表格、技術報告、發射總表）。D50 是**首份揭示 AARO 解密工作流程的 email**——展示 USAP 觀測從「機組現場觀測」到「公開 tearline」之間的具體**人員、單位、流程、機密層級轉換**：
+前 59 份 D 系列檔案都是「UAP 觀測本體」的文件（MISREP、SPEAR 表格、技術報告、發射總表）。D50 是揭示 AARO 解密工作流程的 email，展示 USAP 觀測從「機組現場觀測」到「公開 tearline」之間的具體人員、單位、流程、機密層級轉換：
 
 ```
 原始 USAP 觀測（SECRET//NOFORN）
@@ -35,13 +35,13 @@
      ↓ 公開釋出（war.gov UFO portal 等）
 ```
 
-**D50 揭示了三個關鍵節點**：
+D50 揭示了三個關鍵節點：
 
 1. **USD(I&S) Information Disclosure Analyst** = 國防部副部長（情報與安全）辦公室的資訊揭露分析師，負責**處理 AARO 公開釋出請求**
 2. **12 AF / DET 3 PAROC** = 第 12 空軍第 3 分遣隊的 PAROC（推測為 **Pacific Air Reconnaissance Operations Center** 或 Pacific Area Reconnaissance Operations Center）, 負責**INDOPACOM 戰區情報分析**
 3. **原始飛行單位**（被遮蔽，「the unit that flies [1.4(a)]」）= 實際執行 UAP 觀測任務的飛行中隊
 
-D50 不只是文件，而是 **D 系列方法論的「ground truth」**：所有 D 系列觀測都經過類似這條工作流程。
+D50 不只是文件，而是 D 系列方法論的「ground truth」：所有 D 系列觀測都經過類似這條工作流程。
 
 ## 1. email 對話內容（時序還原）
 
@@ -140,15 +140,15 @@ D 系列前 59 份案件分布：
 - USNORTHCOM AOR（北美）：少數（部分 NASA 任務）
 - **INDOPACOM AOR：D50 是首例**
 
-**意味 D 系列檔案在 2025 年釋出時，AARO 已開始納入太平洋戰區 UAP 案件**。對應 [#031 D14 2024-04-08 East China Sea](../031-dow_uap_d14_mission_report_east_china_sea_april_2024/report.md)（196 ATKS California ANG 在東中國海觀測，標題已標 East China Sea），但 D14 屬於 USINDOPACOM 戰場的早期案件、且為完整 MISREP 格式。**D50 是首份明確以 INDOPACOM 為 AOR 的 tearline-only 案件**。
+意味 D 系列檔案在 2025 年釋出時，AARO 已開始納入太平洋戰區 UAP 案件。對應 [#031 D14 2024-04-08 East China Sea](../031-dow_uap_d14_mission_report_east_china_sea_april_2024/report.md)（196 ATKS California ANG 在東中國海觀測，標題已標 East China Sea），但 D14 屬於 USINDOPACOM 戰場的早期案件、且為完整 MISREP 格式。D50 是明確以 INDOPACOM 為 AOR 的 tearline-only 案件。
 
 ## 5. 觀察
 
-**(1) D50 是 D 系列方法論最重要的單一文件**：揭示 AARO 解密工作流程從 SECRET // NOFORN 原始觀測 → 12 AF/DET 3 PAROC 中介 → 原始飛行單位確認 → USD(I&S) Information Disclosure Analyst 公開釋出的完整鏈條。**所有 D 系列觀測都隱含類似流程，D50 是唯一明確紀錄此流程的 case**。
+**(1) D50 揭示 D 系列方法論**：揭示 AARO 解密工作流程從 SECRET // NOFORN 原始觀測、12 AF/DET 3 PAROC 中介、原始飛行單位確認、USD(I&S) Information Disclosure Analyst 公開釋出的完整鏈條。所有 D 系列觀測都隱含類似流程，D50 是明確紀錄此流程的 case。
 
-**(2) D 系列首份 INDOPACOM 案件**：意味 DOW UAP 釋出包擴展超出 USCENTCOM AOR。對應 [#031 D14 East China Sea 2024-04-08](../031-dow_uap_d14_mission_report_east_china_sea_april_2024/report.md) 屬於早期太平洋戰區案件，但 D14 標題未明示 INDOPACOM。D50 是**首份在文件本身明確標註 INDOPACOM AOR 的案件**。
+**(2) D 系列首份 INDOPACOM 案件**：意味 DOW UAP 釋出包擴展超出 USCENTCOM AOR。對應 [#031 D14 East China Sea 2024-04-08](../031-dow_uap_d14_mission_report_east_china_sea_april_2024/report.md) 屬於早期太平洋戰區案件，但 D14 標題未明示 INDOPACOM。D50 是首份在文件本身明確標註 INDOPACOM AOR 的案件。
 
-**(3) D 系列首份 email 對話文件類型**：前 59 份案件都是任務報告、表格、技術文件。D50 是**內部行政 email**，揭示官僚層級互動。**未來其他 D 系列 email correspondence 案件可能類似**。
+**(3) D 系列 email 對話文件類型**：前 59 份案件都是任務報告、表格、技術文件。D50 是內部行政 email，揭示官僚層級互動。未來其他 D 系列 email correspondence 案件可能類似。
 
 **(4) PDF 內部 metadata 誤標 "DoW-UAP-D28"**：第 8 處 DOW PDF metadata 錯誤。D28 是 [#046 Ayn al Asad 2024-09-20 AC-130J Ghostrider Griffin 飛彈案件](../046-dow_uap_d28_mission_report_ayn_al_asad_iraq_september_2024/report.md)。**D50 的 PDF metadata 與 [#058 D49](../058-dow_uap_d49_vandenberg_launch_summary_1958_2000/report.md) 的 D27 metadata 錯誤模式相同**：DOW 上傳系統可能批次重用前案 metadata title，導致系統性錯誤。
 

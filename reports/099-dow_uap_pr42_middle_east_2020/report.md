@@ -2,7 +2,7 @@
 
 ![cover](cover.jpg)
 
-PR42 是 PR 系列中最長的中東 2020 影片之一（4 分 53 秒），AARO 公開時無對應 D 系列 MISREP。本片觀察重點是 sensor mode switching 與目標 intermittent visibility。
+PR42 長達 4 分 53 秒，是 PR 系列中東 2020 案件裡最長的之一。看點不在長度本身，而在這段時間裡操作員一直在切感測器設定：White Hot 換 Black Hot、再換模態、再切回來。每次切換都意味目標消失了幾秒到十幾秒，操作員試著重新捕捉。這種「intermittent visibility + sensor mode switching」組合，正是 unresolved UAP 的典型訊號。
 
 ## 影片內容
 

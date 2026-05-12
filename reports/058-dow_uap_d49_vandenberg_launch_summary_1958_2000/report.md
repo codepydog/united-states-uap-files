@@ -98,7 +98,7 @@ D49 的詳細發射清單可作為**對比歷史 UAP 觀測與發射事件相關
 
 **(1) D49 是 D 系列第二份「非 UAP 觀測」案件**：繼 D48 之後，D49 進一步確認 D 系列涵蓋範圍包含「**支援 UAP 分析的歷史技術 / 行政基線文件**」。兩份文件都來自 Vandenberg AFB 30th Space Wing 內部。
 
-**(2) D 系列首份「無分類標記」文件**：D48 是 Unclassified（限分發），D49 是**完全無分類標記**（公開歷史文獻）。D 系列機密層級分布從「無分類」（D49）→ Unclassified 限分發（D48）→ SECRET (FOUO/PA)（D38, D42, D44）→ SECRET（多數 MISREP）→ SECRET // NOFORN（部分 MISREP）→ SECRET // REL TO USA, FVEY（D4）構成完整光譜。
+**(2) D 系列「無分類標記」文件**：D48 是 Unclassified（限分發），D49 是完全無分類標記（公開歷史文獻）。D 系列機密層級分布從「無分類」（D49）到 Unclassified 限分發（D48）、SECRET (FOUO/PA)（D38, D42, D44）、SECRET（多數 MISREP）、SECRET // NOFORN（部分 MISREP）、SECRET // REL TO USA, FVEY（D4）構成完整光譜。
 
 **(3) PDF 內部 metadata 寫 "DoW-UAP-D27"**：D27 是 [#045 Gulf of Oman 2024-06](../045-dow_uap_d27_mission_report_gulf_of_oman_june_2024/report.md)，與 D49 完全無關。意味 DOW 在 PDF 上傳處理時，PDF 內部 metadata 重用了 D27 的 title 字段，但 URL 與 portal 顯示為 D49。**第 7 處 DOW UAP 釋出包 metadata 錯誤**（前 6 處：D19 高度單位錯誤、D20 地理錯誤、D27 標題錯誤、D28 標題錯誤、D42 標題錯誤、D4 標題地理錯誤）。
 

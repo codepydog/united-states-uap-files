@@ -2,7 +2,7 @@
 
 ![cover](cover.jpg)
 
-PR44 是 PR 系列中段落最長的中東 2020 IR 影片之一，AARO 公開時無對應 D 系列 MISREP。本片完整呈現一段約 3 分鐘的感測器積極追蹤序列，包含 autotrack lock、變焦、FOV 收窄等典型 ISR 操作流程。
+PR44 是 PR 系列中操作員投入最多時間的單一案件之一。5 分 12 秒的影片裡，有將近 3 分鐘是主追蹤序列：autotrack 鎖定、多次變焦、FOV 收窄切換，整套 ISR 標準流程都跑過一遍。儘管如此 AARO 仍列為 unresolved。鎖得上不等於 ID 得出來。
 
 ## 影片內容
 
