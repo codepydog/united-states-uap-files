@@ -179,3 +179,11 @@ DOW 釋出的版本完整保留這個改稿痕跡，沒做進一步處理。
 - Apollo 12 (#139) Bean AOT particles「逃離月球射向恆星」是 Lovell「trillions of particles」之後 NASA 最重要的「軌道近場粒子群」紀錄
 - Apollo 17 (#150) VM6 三點藍光是 NASA UAP release 裡唯一另一個被 DOW 重啟調查的影像案例
 - Skylab (#144) Garriott 紅色亮星是 1973 年地球軌道版本的同類觀測，識別至今未公開
+
+## 補述：#021 NASA-UAP-D3A Audio Excerpt
+
+DOW 釋出包索引第 21 號是 `NASA-UAP-D3A, Gemini 7 Audio Excerpt, 1965`，類型 VID。索引未附公開下載連結，war.gov UFO portal 對應 anchor 點開後無 embedded player 或 mp3 source；DVIDS 搜尋 `"NASA-UAP-D3A"` 與 `Gemini 7 UAP audio` 皆 0 結果。
+
+依本份 transcript 開頭 `TAPE No. T-00763(R1b)` 與 PAO 表述「we have a tape of it. The tape is in the Control Center, we're prepared to play it for you now」，#021 對應的是同卷錄音帶數位轉檔片段，內容是本 transcript 完整還原的空地通訊原音，含 `BOGEY` 喊出當下的語氣、地面操控員 garbled 通訊、LONG PAUSE / DUAL TRANSMISSION 等通訊狀態。
+
+公開連結尚未在 DOW 釋出 portal 上線時，本份 transcript 即為 #021 內容的文字本。後續若音檔公開，可從 NASA Headquarters Public Affairs Audio Library 或 NASA Johnson Space Center History Portal 比對 T-00763(R1b) 編號取得。
