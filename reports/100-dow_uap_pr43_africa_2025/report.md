@@ -40,3 +40,9 @@ PR43 是整個 PR 系列裡第一份地點標「非洲」的影片，年份 2025
 | 釋出途徑 | 推測 AFRICOM 解密通道（非 USCENTCOM MDR 25-0094 系列） |
 | 官方來源 | [DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025](https://www.war.gov/UFO/#DOW-UAP-PR43,%20Unresolved%20UAP%20Report,%20Africa,%202025) |
 | DVIDS 鏡像 | [DVIDS video 1006159](https://www.dvidshub.net/video/1006159/dow-uap-pr43-unresolved-uap-report-africa-2025) |
+
+## 相關報告
+
+- [#106 PR49 美國陸軍 2026](../106-dow_uap_pr49_army_2026/report.md)，同為 PR 系列中 AOR 與通報單位罕見的孤例，可對照「AFRICOM 撤編期」與「Army 陸軍通報」兩種非 CENTCOM 主流的釋出路徑
+- [#103 PR46 INDOPACOM 2024](../103-dow_uap_pr46_indopacom_2024/report.md)，另一個非 CENTCOM AOR 案件，可對照三大新增 AOR（AFRICOM/INDOPACOM/Army）在 sensor 與 MISREP 配對上的共同缺口
+- [#094 PR37 中東 2020](../094-dow_uap_pr37_middle_east_2020/report.md)，同為極短片段（PR43 原始 2 秒，PR37 9.8 秒）且皆無 D 系列對應，可同類比對「片長不足以做運動學分析」的 unresolved 形態

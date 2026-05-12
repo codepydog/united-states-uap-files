@@ -28,6 +28,8 @@ D62 那次有 3 次伊朗喊話加 2 次 EMI 失聯加 1 個 UAP。D63 把喊話
 
 Total Mission Time: 21 小時 4 分鐘。FMV 由 DGS-1 判讀。MISREP 編號 4871281。
 
+![page-5](page-5.jpg)
+
 ## 5 次伊朗喊話的 tone 變化
 
 5 次喊話的 tone 分布。前兩次（0727Z, 0854Z）標為 PROFESSIONAL。第三次（1122Z）轉成 Directive。第四次（1236Z）回到 Professional。第五次（1315Z）又是 Directive。

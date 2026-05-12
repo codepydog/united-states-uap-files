@@ -27,6 +27,8 @@
 
 Total Mission Time: 21 小時 17 分鐘。Total Time On Station: 20 小時 20 分鐘。MISREP 編號 4472514。
 
+![page-5](page-5.jpg)
+
 ## 三個 UAP 觀測：5 小時 15 分鐘跨度
 
 | 屬性 | UAP #1 (18:30Z) | UAP #2 (19:20Z) | UAP #3 (23:45Z) |

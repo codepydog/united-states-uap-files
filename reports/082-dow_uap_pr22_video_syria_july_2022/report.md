@@ -36,3 +36,9 @@ D16 + PR22 留為 unresolved 的關鍵在「短暫」：
 | 官方來源 | [DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022](https://www.war.gov/UFO/#DOW-UAP-PR22,%20Unresolved%20UAP%20Report,%20Syria,%20July%202022) |
 
 公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D16 MISREP 對應段。
+
+> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+
+## 相關報告
+
+- [#038 D16 敘利亞 2022-07](../038-dow_uap_d16_mission_report_syria_july_2022/report.md)，PR22 對應的 MISREP 觀測（TF CHOSIN 跟監，02:39Z 短暫目擊）。

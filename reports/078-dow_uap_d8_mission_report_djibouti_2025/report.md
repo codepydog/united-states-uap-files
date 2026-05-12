@@ -1,6 +1,6 @@
 # #078 DOW-UAP-D8：6/7 頁全黑、2 個白熱 UAP 朝南 240 nm/hr、地中海非吉布地
 
-![page-1](page-1.jpg)
+![cover](cover.jpg)
 
 「6/7 頁全黑遮蔽加最後 1 頁 GENTEXT」結構案件，與 [#075 D7](../075-dow_uap_d7_mission_report_arabian_gulf_2020/report.md) 的編排幾乎一致，內容是完全不同的觀測：2X ROUND WHITE HOT UAPS DYNAMIC SOUTH AT APPROX 240NM/HOUR IVO 35SQT3423692957。
 

@@ -1,10 +1,12 @@
 # #077 DOW-UAP-D75：跟到追不上的 UAP，speed 比飛機快、走直線同高
 
-![page-1](page-1.jpg)
+![cover](cover.jpg)
 
 2024-07-14，一架 USAF ISR 機在亞丁灣戰區先支援 NAVCENT 後 retask 給 AFCENT。第一個任務段才執行 1 小時 43 分鐘，05:17Z 就觀測到 1 個 UAP，飛機嘗試跟蹤，但「UAP'S SPEED WAS FASTER THAN THE [己方平台] FLYING SPEED」，最後「FOLLOWED THE UAP TILL THE DISTANCE BECAME TOO FAR TO FOLLOW」。19 小時 40 分鐘任務裡，UAP 是訊息量最高的觀測。其餘時間都是 NAVCENT 加 AFCENT 例行 target development，narrative 寫 NSTR（Nothing Significant To Report）。
 
 [#076 D74](../076-dow_uap_d74_mission_report_syria_nov_2023/report.md) 使用相同 41 欄 UAP 資料卡格式，D75 多了「己方主動嘗試追蹤」這個動作。
+
+![page-1](page-1.jpg)
 
 ## 任務時間軸
 
@@ -180,5 +182,6 @@ D75 metadata 與 D74 一致：
 
 - [#076 D74 敘利亞 2023-11-09](../076-dow_uap_d74_mission_report_syria_nov_2023/report.md)：8 個月前同 MDR 25-0072 批次、同 41 欄資料卡格式、bouncy ball UAP 424 KN。
 - [#056 D44 Gulf of Aden 2020-10-15](../056-dow_uap_d44_range_fouler_gulf_of_aden_october_2020/report.md)：同 region 約 4 年前案件，172 ATKS MQ-9 觀測「貼海面 + 熱致冷 + 不規則機動」三重 signature。
+- [#066 D57 亞丁灣 2020-09](../066-dow_uap_d57_range_fouler_gulf_of_aden_sep_2020/report.md)：同區域 4 年前的另一份 MQ-9 IR 冷物體觀測。
 - [#045 D27 Gulf of Oman 2024-06-07](../045-dow_uap_d27_mission_report_gulf_of_oman_june_2024/report.md)：37 天前 AFSOC 3 SOS 觀測貼水面 140 KTS「圓柱條附底部」UAP，鄰近戰區。
 - [#057 D48 1996](../057-dow_uap_d48_air_force_space_booster_risk_report_1996/report.md)：D 系列非 UAP 案件，可作為文件批次脈絡對照。

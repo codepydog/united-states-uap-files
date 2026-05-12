@@ -38,3 +38,11 @@ PR29 與 PR28（D25）共享「倒淚滴+垂直拖尾」形態，這個跨案例
 | 官方來源 | [DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024](https://www.war.gov/UFO/#DOW-UAP-PR29,%20Unresolved%20UAP%20Report,%20United%20Arab%20Emirates,%20June%202024) |
 
 公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D27 MISREP gentext 展開。
+
+> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+
+## 相關報告
+
+- [#045 D27 阿曼灣 2024-06](../045-dow_uap_d27_mission_report_gulf_of_oman_june_2024/report.md)，PR29 對應的 MISREP 觀測（AFSOC 3 SOS MQ-9 04:57Z，「圓柱條附底部，可能反射」140 KTS）。
+- [#042+#043 D23 阿拉伯灣 2023-10](../042_043-dow_uap_d23_mission_report_uae_october_2023/report.md)，同 UAE 標籤、同 USCENTCOM 海域的早期觀測，背景上下文。
+- [#086 PR28 希臘 2024-01](../086-dow_uap_pr28_video_greece_january_2024/report.md)，共享「倒淚滴+垂直拖尾」形態學的 SWIR-only 案例。

@@ -45,3 +45,9 @@ PR41 透過 sensor-induced motion 揭露兩個事實：
 | 釋出途徑 | USCENTCOM MDR 25-0094 thru MDR 25-0099 |
 | 官方來源 | [DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020](https://www.war.gov/UFO/#DOW-UAP-PR41,%20Unresolved%20UAP%20Report,%20Middle%20East,%202020) |
 | DVIDS 鏡像 | [DVIDS video 1006094](https://www.dvidshub.net/video/1006094/dow-uap-pr41-unresolved-uap-report-middle-east-2020) |
+
+## 相關報告
+
+- [#101 PR44 中東 2020](../101-dow_uap_pr44_middle_east_2020/report.md)，同地點同年代但操作員成功取得 autotrack lock，可對照「手動 slew」與「autotrack 鎖定」兩種操作策略
+- [#102 PR45 中東 2020](../102-dow_uap_pr45_middle_east_2020/report.md)，同樣以 sensor 行為（slant range 縮短）揭露目標運動學
+- [#099 PR42 中東 2020](../099-dow_uap_pr42_middle_east_2020/report.md)，同地點同年代但 sensor 操作集中於模態切換而非手動 slew

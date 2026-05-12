@@ -252,3 +252,9 @@ DOW 在 transcript 上沒做螢光標記，但抽出這兩段（Bean AOT + Conra
 - Apollo 17 (#150) VM6 三點藍光與 VM1-5 屬同類「月面 panorama 框出不明點」現象
 - Skylab (#144) Carr + Pogue + Gibson 看到「objects up there with us」是 1973 年地球軌道版本的相同類別觀察
 - Gemini 7 (#020) Borman 1965 年「BOGEY」+ Lovell「trillions of particles」是這個系列最早期紀錄
+## 相關報告
+
+- [#020 Gemini 7](../020_021-nasa_gemini_7/report.md)
+- [#141 Apollo 11](../141-nasa_apollo_11/report.md)
+- [#144 Skylab](../144-nasa_skylab/report.md)
+- [#150 Apollo 17](../140_142_143_150-nasa_apollo_17/report.md)

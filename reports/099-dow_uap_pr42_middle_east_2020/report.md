@@ -45,3 +45,9 @@ AARO 將本片歸為 unresolved，未提供候選解釋。
 | 釋出途徑 | USCENTCOM MDR 25-0094 thru MDR 25-0099 |
 | 官方來源 | [DOW-UAP-PR42, Unresolved UAP Report, Middle East, 2020](https://www.war.gov/UFO/#DOW-UAP-PR42,%20Unresolved%20UAP%20Report,%20Middle%20East,%202020) |
 | DVIDS 鏡像 | [DVIDS video 1006097](https://www.dvidshub.net/video/1006097/dow-uap-pr42-unresolved-uap-report-middle-east-2020) |
+
+## 相關報告
+
+- [#101 PR44 中東 2020](../101-dow_uap_pr44_middle_east_2020/report.md)，同為中東 2020 長片（5:12），可對照「模態切換」與「autotrack + 變焦 + FOV 收窄」兩種長時間追蹤策略
+- [#098 PR41 中東 2020](../098-dow_uap_pr41_middle_east_2020/report.md)，同樣以 sensor 操作（手動 slew vs 模態切換）揭露 autotrack lock 條件不符
+- [#095 PR38 中東 2013](../095-dow_uap_pr38_middle_east_2013/report.md)，另一份長片（1:46）中東 IR，可作為 2013 vs 2020 長期觀測對照

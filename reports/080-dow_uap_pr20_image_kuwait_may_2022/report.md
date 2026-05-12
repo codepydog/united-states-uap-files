@@ -33,3 +33,11 @@ PR20 名稱含「Kuwait」是因為 196 ATKS MQ-9 的起降基地是 OKAS（Ali 
 | 官方來源 | [DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022](https://www.war.gov/UFO/#DOW-UAP-PR20,%20Unresolved%20UAP%20Report,%20Kuwait,%20May%202022) |
 
 公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D12 MISREP 對應段。
+
+> **媒體來源**：war.gov 公開 image press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+
+## 相關報告
+
+- [#036 D12 伊拉克 2022-05](../036-dow_uap_d12_mission_report_iraq_may_2022/report.md)，PR20 紅圈靜止影像對應的 MISREP 觀測（OP PHANTOM FLEX，20:43Z）。
+- [#035 D10 伊拉克 2022-05](../035-dow_uap_d10_mission_report_iraq_may_2022/report.md)，同期同地點任務系列，背景上下文。
+- [#081 PR21 伊拉克 2022-05](../081-dow_uap_pr21_video_iraq_may_2022/report.md)，同期同月份的下一份 PR 影片條目。

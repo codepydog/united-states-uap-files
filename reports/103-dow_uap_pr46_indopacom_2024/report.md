@@ -54,3 +54,9 @@ INDOPACOM 戰區涵蓋廣大太平洋，9 秒影片無 ground truth 與其他感
 | 釋出途徑 | 推測 INDOPACOM 解密通道 |
 | 官方來源 | [DOW-UAP-PR46, Unresolved UAP Report, INDOPACOM, 2024](https://www.war.gov/UFO/#DOW-UAP-PR46,%20Unresolved%20UAP%20Report,%20INDOPACOM,%202024) |
 | DVIDS 鏡像 | [DVIDS video 1006106](https://www.dvidshub.net/video/1006106/dow-uap-pr46-unresolved-uap-report-indopacom-2024) |
+
+## 相關報告
+
+- [#104 PR47 INDOPACOM 2023](../104-dow_uap_pr47_indopacom_2023/report.md)，同戰區案件，可對照「單一橄欖球 + 3 突出物」與「3 處對比區固定編隊」兩種形態描述
+- [#105 PR48 INDOPACOM 2024](../105-dow_uap_pr48_indopacom_2024/report.md)，同戰區同年代，但形態描述最一般化（單目標中央追蹤），可對照「形態獨特」vs「形態一般」皆列 unresolved
+- [#100 PR43 非洲 2025](../100-dow_uap_pr43_africa_2025/report.md)，另一個非 CENTCOM AOR 案件，可比對 INDOPACOM 與 AFRICOM 在 sensor 與 MISREP 配對上的共同缺口

@@ -155,3 +155,9 @@ NASA 1969 年沒把這些觀察列為 UAP 卷宗。它只是 Section 21 Visual S
 - Apollo 17 (#143) Cernan + Schmitt + Evans 戴 ALFMED 實驗驗證 Aldrin 1969 年提的 penetration 假說
 - Skylab (#144) Kerwin + Conrad 在地球軌道重現相同 cabin flashes 現象，連 peripheral 視野偏置都吻合
 - Gemini 7 (#020) Borman 1965 年「BOGEY」是更早的艙外不明物紀錄
+## 相關報告
+
+- [#020 Gemini 7](../020_021-nasa_gemini_7/report.md)
+- [#139 Apollo 12](../139_145_146_147_148_149-nasa_apollo_12/report.md)
+- [#143 Apollo 17](../140_142_143_150-nasa_apollo_17/report.md)
+- [#144 Skylab](../144-nasa_skylab/report.md)

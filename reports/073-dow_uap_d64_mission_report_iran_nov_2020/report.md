@@ -25,6 +25,8 @@ D63 那次是 21 小時、5 次伊朗喊話、1 個 UAP。D64 把喊話次數壓
 
 Total Mission Time: 20 小時 42 分鐘。MISREP 編號 5039166。
 
+![page-5](page-5.jpg)
+
 ## UUV 開放水域掃描任務段
 
 D 系列 70 多份 MISREP 中，D64 是有明確寫出「OPEN WATER SCANS ISO UUV」任務描述的一份。

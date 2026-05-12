@@ -191,3 +191,9 @@ DOW 在 transcript 上用螢光筆主動標出 Schmitt 兩段話（S-IVB 鎖定 
 - Apollo 12 (#139 + #145-149) Bean 透過 AOT 看到 particles「逃離月球射向恆星」，VM1-5 五張月面照標出 14 個觀測點，與 VM6 屬同類
 - Skylab (#144) 三批機組共 9 人在地球軌道重複觀察 cabin flashes，確認 ALFMED 結論
 - Gemini 7 (#020) Borman 1965 年「BOGEY」是更早的艙外不明物紀錄
+## 相關報告
+
+- [#020 Gemini 7](../020_021-nasa_gemini_7/report.md)
+- [#139 Apollo 12](../139_145_146_147_148_149-nasa_apollo_12/report.md)
+- [#141 Apollo 11](../141-nasa_apollo_11/report.md)
+- [#144 Skylab](../144-nasa_skylab/report.md)

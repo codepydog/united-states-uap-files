@@ -45,3 +45,9 @@ AARO 未能歸入任何已知類別，且 2013 年資料無法與現代資料庫
 | 釋出途徑 | USCENTCOM MDR 25-0094 thru MDR 25-0099 |
 | 官方來源 | [DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013](https://www.war.gov/UFO/#DOW-UAP-PR38,%20Unresolved%20UAP%20Report,%20Middle%20East,%202013) |
 | DVIDS 鏡像 | [DVIDS video 1006088](https://www.dvidshub.net/video/1006088/dow-uap-pr38-unresolved-uap-report-middle-east-2013) |
+
+## 相關報告
+
+- [#099 PR42 中東 2020](../099-dow_uap_pr42_middle_east_2020/report.md)，另一份長片（4:53）中東 IR 影片，可對照 2013 vs 2020 長期觀測在 sensor 操作上的差異
+- [#097 PR40 中東 2020](../097-dow_uap_pr40_middle_east_2020/report.md)，同為 AARO 對形態有具體 caption 的案件（白圈 U/I 標籤 vs 八角星描述）
+- [#093 PR36 中東 2020](../093-dow_uap_pr36_middle_east_may_2020/report.md)，中東 PR 系列前段，可作為 PR 系列在中東 AOR 整體脈絡的入口

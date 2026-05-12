@@ -1,10 +1,12 @@
 # #076 DOW-UAP-D74：VEO 監控 11 小時尾段、UAP 從南方 424 KN「彈跳球」掠過
 
-![page-01](page-01.jpg)
+![cover](cover.jpg)
 
 2023-11-09 那天，USAF 一架 ISR 機在敘利亞執行 OP INHERENT RESOLVE 反 ISIS 監視任務，全天盯住一棟住宅與一輛帶後掛備胎的白色 SUV，從 08:05Z 看到 19:33Z 共 11 小時 28 分。任務結束 RTB 的路上，21:53Z 機組看到「1 個 probable HC UAP shaped as a bouncy ball」從南方接近、降低高度、安全擦肩而過，以 424 節等速持續 7 分鐘才脫離視距。
 
 這份 MISREP 把完整 41 欄 UAP 資料卡格式填好填滿，shape / state / propulsion / signatures / advanced capabilities / first 與 last coordinates / radius / kinetic altitude 都有值。
+
+![page-01](page-01.jpg)
 
 ## 任務時間軸（OP INHERENT RESOLVE 反 ISIS / VEO）
 
@@ -188,3 +190,4 @@ D74 的解密推薦者是 Tegtmeier，與 D62 / D63 / D64 / D65 的 Harrison（M
 - [#048-050 D32 敘利亞 2024-10-20](../048_049_050-dow_uap_d32_mission_report_syria_october_2024/report.md)：同戰區 AFSOC 12 SOS MQ-9 觀測 plasma UAP，與 D74 相隔約 11 個月。
 - [#040 D19 敘利亞 2023-02-21](../040-dow_uap_d19_mission_report_syria_february_2023/report.md)：同國家、9 個月前 F-15E 二機編隊觀測 3 UAP。
 - [#041 D20 敘利亞 ESSA 2023-03-31](../041-dow_uap_d20_mission_report_syria_essa_march_2023/report.md)：F-16CM 二機編隊 10-20 個 UAP @ FL600+，敘利亞 2023 春季案件。
+- [#064 D55 敘利亞 2016-11](../064-dow_uap_d55_mission_report_syria_2016/report.md)：同地點 7 年前的 P-8A 「疑似飛彈」案件，D 系列敘利亞最早一份。

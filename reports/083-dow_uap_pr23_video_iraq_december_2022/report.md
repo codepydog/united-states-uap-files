@@ -34,3 +34,9 @@ D18 是 D 系列中首次把「可能 UAV」列入分類選項的案例，這個
 | 官方來源 | [DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022](https://www.war.gov/UFO/#DOW-UAP-PR23,%20Unresolved%20UAP%20Report,%20Iraq,%20December%202022) |
 
 公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D18 MISREP 對應段。
+
+> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+
+## 相關報告
+
+- [#039 D18 伊拉克 2022-12](../039-dow_uap_d18_mission_report_iraq_december_2022/report.md)，PR23 對應的 MISREP 觀測（巴格達區 482 ATKS MQ-9，「可能 UAP/UAV」首次分類）。

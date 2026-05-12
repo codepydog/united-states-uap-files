@@ -61,3 +61,9 @@ AARO 沒有提供候選解釋，且 2026 案件（本年度）尚未經完整事
 | 釋出途徑 | 推測 Army 解密通道（非 USCENTCOM / INDOPACOM） |
 | 官方來源 | [DOW-UAP-PR49, Unresolved UAP Report, Department of the Army, 2026](https://www.war.gov/UFO/#DOW-UAP-PR49,%20Unresolved%20UAP%20Report,%20Department%20of%20the%20Army,%202026) |
 | DVIDS 鏡像 | [DVIDS video 1006111](https://www.dvidshub.net/video/1006111/dow-uap-pr49-unresolved-uap-report-department-army-2026) |
+
+## 相關報告
+
+- [#100 PR43 非洲 2025](../100-dow_uap_pr43_africa_2025/report.md)，同為 PR 系列中 AOR 與通報單位罕見的孤例（AFRICOM 撤編期 vs Army 陸軍通報），可對照非 CENTCOM 主流的釋出路徑
+- [#103 PR46 INDOPACOM 2024](../103-dow_uap_pr46_indopacom_2024/report.md)，另一個非 CENTCOM 戰區案件，可對照三大新增來源（Army/AFRICOM/INDOPACOM）對 PR 系列地理與單位多樣化的擴展
+- [#105 PR48 INDOPACOM 2024](../105-dow_uap_pr48_indopacom_2024/report.md)，同樣為單目標追蹤含多次變焦調整，但本案多處對比區先後出現是陸軍 FLIR/TADS 平台特有的觀測剖面差異

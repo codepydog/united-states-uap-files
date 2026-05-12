@@ -42,3 +42,11 @@ PR32 與 PR31、PR33 共享 Plasma 不解之謎：
 | 官方來源 | [DOW-UAP-PR32, Unresolved UAP Report, Syria, October 2024](https://www.war.gov/UFO/#DOW-UAP-PR32,%20Unresolved%20UAP%20Report,%20Syria,%20October%202024) |
 
 公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D32 MISREP 對應段展開。
+
+> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+
+## 相關報告
+
+- [#048+#049+#050 D32 敘利亞 2024-10](../048_049_050-dow_uap_d32_mission_report_syria_october_2024/report.md)，PR32 對應的 MISREP 觀測（45 分鐘 plasma 事件，三個獨立 OBS）。
+- [#088 PR31 敘利亞 2024-10](../088-dow_uap_pr31_video_syria_october_2024/report.md)，同 D32 plasma 事件的早段 5 秒影片。
+- [#090 PR33 敘利亞 2024-10](../090-dow_uap_pr33_video_syria_october_2024/report.md)，同 D32 plasma 事件的末段 5 秒影片。

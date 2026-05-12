@@ -36,3 +36,11 @@ D14 同任務 OBS 還包含 2022-05-30 00:11Z 觀測到 1 架可能 Su-27/35 降
 | 官方來源 | [DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022](https://www.war.gov/UFO/#DOW-UAP-PR21,%20Unresolved%20UAP%20Report,%20Iraq,%20May%202022) |
 
 公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D14 MISREP 對應段。
+
+> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+
+## 相關報告
+
+- [#035 D10 伊拉克 2022-05](../035-dow_uap_d10_mission_report_iraq_may_2022/report.md)，同月份伊拉克任務系列，背景上下文。
+- [#036 D12 伊拉克 2022-05](../036-dow_uap_d12_mission_report_iraq_may_2022/report.md)，同月份伊拉克 OP PHANTOM FLEX 觀測。
+- [#080 PR20 科威特 2022-05](../080-dow_uap_pr20_image_kuwait_may_2022/report.md)，同月份的單張靜止影像條目，影像格式對照。

@@ -56,3 +56,9 @@ INDOPACOM 戰區廣大，2 分鐘影片無雷達 / IFF / RWR 交叉，且 HUD re
 | 釋出途徑 | 推測 INDOPACOM 解密通道 |
 | 官方來源 | [DOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023](https://www.war.gov/UFO/#DOW-UAP-PR47,%20Unresolved%20UAP%20Report,%20INDOPACOM,%202023) |
 | DVIDS 鏡像 | [DVIDS video 1006107](https://www.dvidshub.net/video/1006107/dow-uap-pr47-unresolved-uap-report-indopacom-2023) |
+
+## 相關報告
+
+- [#103 PR46 INDOPACOM 2024](../103-dow_uap_pr46_indopacom_2024/report.md)，同戰區案件，可對照「3 對比區固定編隊」與「橄欖球 + 3 突出物」兩種多元件幾何描述
+- [#105 PR48 INDOPACOM 2024](../105-dow_uap_pr48_indopacom_2024/report.md)，同戰區同型 IR 影片但僅一處中央對比區，可對照「多目標」與「單目標」處理流程
+- [#099 PR42 中東 2020](../099-dow_uap_pr42_middle_east_2020/report.md)，另一份長片（4:53）跨 AOR 對照，可比較模態切換 vs 多目標相對位置固定兩種 unresolved 訊號

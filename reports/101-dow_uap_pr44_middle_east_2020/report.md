@@ -48,3 +48,9 @@ PR44 是 PR 系列中操作員投入最多 sensor 操作時間的影片之一（
 | 釋出途徑 | USCENTCOM MDR 25-0094 thru MDR 25-0099 |
 | 官方來源 | [DOW-UAP-PR44, Unresolved UAP Report, Middle East, 2020](https://www.war.gov/UFO/#DOW-UAP-PR44,%20Unresolved%20UAP%20Report,%20Middle%20East,%202020) |
 | DVIDS 鏡像 | [DVIDS video 1006104](https://www.dvidshub.net/video/1006104/dow-uap-pr44-unresolved-uap-report-middle-east-2020) |
+
+## 相關報告
+
+- [#099 PR42 中東 2020](../099-dow_uap_pr42_middle_east_2020/report.md)，同為中東 2020 長片（4:53 vs 5:12），可對照「autotrack + 變焦」與「模態切換」兩種長時間追蹤策略
+- [#102 PR45 中東 2020](../102-dow_uap_pr45_middle_east_2020/report.md)，同樣保持 autotrack lock，並輔以 AARO 對 sensor-target slant range 的加註
+- [#098 PR41 中東 2020](../098-dow_uap_pr41_middle_east_2020/report.md)，反例：同地點同年代但操作員無法取得 autotrack lock，可對照 lock-on 條件成立 vs 不成立的差別

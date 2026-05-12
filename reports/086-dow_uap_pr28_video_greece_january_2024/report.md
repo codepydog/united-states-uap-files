@@ -44,3 +44,11 @@ PR28 的物理特徵（SWIR-only + teardrop + 垂直拖尾）後續會在 D27（
 | 官方來源 | [DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024](https://www.war.gov/UFO/#DOW-UAP-PR28,%20Unresolved%20UAP%20Report,%20Greece,%20January%202024) |
 
 公開 mp4 連結未能在 war.gov portal 解析；上述描述依官方 caption 與 D25 MISREP 對應段展開。
+
+> **媒體來源**：war.gov 公開 video press release，本 repo 未鏡像影音檔，請至 [war.gov UFO 頁面](https://www.war.gov/UFO/) 觀看原檔。
+
+## 相關報告
+
+- [#044 D25 希臘 2024-01](../044-dow_uap_d25_mission_report_greece_january_2024/report.md)，PR28 對應的 MISREP 觀測（AFSOC 33 SOS MQ-9 SWIR-only，菱形帶探針，434 節）。
+- [#051 D33 希臘 2023-10](../051-dow_uap_d33_mission_report_greece_october_2023/report.md)，同地點（希臘 / Aegean）的 D 系列觀測，背景上下文。
+- [#052 D35 希臘 2023-10](../052-dow_uap_d35_mission_report_greece_october_2023/report.md)，同地點（希臘 / Aegean）的 D 系列觀測，背景上下文。
