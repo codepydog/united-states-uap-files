@@ -93,7 +93,7 @@ D65 比 D62/D63/D64 早 2-4 個月，EO/IR 觀測能力沒被霾打折，D65 的
 
 即便能見度好，narrative 仍只記「1X UNIDENTIFIED AERIAL PHENOMENON」，不寫 shape / altitude / speed。幾個可能原因：MQ-9 sensor 操作員的記錄習慣就是這樣簡短，細節留給 DGS-1 FMV 影像判讀；完整描述被 1.4(a) 遮蔽，narrative 只保留事件存在性；或三次 UAP 都是雷達 / sensor 偵測到無法判讀的物體，原本就沒有 visual 細節。
 
-這對應 [#072 D63](../147-dow_uap_d63_mission_report_strait_of_hormuz_oct_2020/report.md) 的 narrative 處理方式（也是「OBSERVED A UAP, SEE OBSERVATION LINE」），482 ATKS 的 MISREP 寫法在 2020 年下半年沒有改變。
+這對應 [#072 D63](../072-dow_uap_d63_mission_report_strait_of_hormuz_oct_2020/report.md) 的 narrative 處理方式（也是「OBSERVED A UAP, SEE OBSERVATION LINE」），482 ATKS 的 MISREP 寫法在 2020 年下半年沒有改變。
 
 ## 影像規格與來源
 
@@ -129,8 +129,8 @@ D65 比 D62/D63/D64 早 2-4 個月，EO/IR 觀測能力沒被霾打折，D65 的
 
 ## 相關案件
 
-- [#073 D64 伊朗 2020-11-02](../148-dow_uap_d64_mission_report_iran_nov_2020/report.md)：4 個月後同 482 ATKS、2 UAP 加 UUV 任務段。
-- [#072 D63 荷莫茲 2020-10-01](../147-dow_uap_d63_mission_report_strait_of_hormuz_oct_2020/report.md)：78 天後同單位、Abu Musa ATR 觀測加 1 UAP。
-- [#071 D62 荷莫茲 2020-09-16](../146-dow_uap_d62_mission_report_strait_of_hormuz_sep_2020/report.md)：62 天後同單位、EMI 加 UAP。
-- [#069 D60 阿拉伯灣 2020-08-08](../144-dow_uap_d60_mission_report_persian_gulf_aug_2020/report.md)：23 天後同單位、UAP TRANSITTING。
+- [#073 D64 伊朗 2020-11-02](../073-dow_uap_d64_mission_report_iran_nov_2020/report.md)：4 個月後同 482 ATKS、2 UAP 加 UUV 任務段。
+- [#072 D63 荷莫茲 2020-10-01](../072-dow_uap_d63_mission_report_strait_of_hormuz_oct_2020/report.md)：78 天後同單位、Abu Musa ATR 觀測加 1 UAP。
+- [#071 D62 荷莫茲 2020-09-16](../071-dow_uap_d62_mission_report_strait_of_hormuz_sep_2020/report.md)：62 天後同單位、EMI 加 UAP。
+- [#069 D60 阿拉伯灣 2020-08-08](../069-dow_uap_d60_mission_report_persian_gulf_aug_2020/report.md)：23 天後同單位、UAP TRANSITTING。
 - [#047 D3 阿拉伯灣 2020](../047-dow_uap_d3_mission_report_arabian_gulf_2020/report.md)：同 AOR / AFCENT MQ-9、27 秒內 4 個 UAP。

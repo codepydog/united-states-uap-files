@@ -57,7 +57,7 @@ UUV 是 Unmanned Underwater Vehicle（無人水下載具）。MQ-9 從 FL220 高
 
 UAP #1 給出 bearing 080T（東向），altitude unknown。UAP #2 給出 traveling NW（西北向）。
 
-兩個方向相差 130 度，是兩個不同物體，不是同一個 UAP 5 分鐘後被重新觀測。這呼應 [#070 D61](../145-dow_uap_d61_mission_report_persian_gulf_aug_2020/report.md) 的 FORMATION 加 [#047 D3](../047-dow_uap_d3_mission_report_arabian_gulf_2020/report.md) 的 4 個 UAP（含 2 個 side-by-side），D 系列「同戰區同任務段多個 UAP」的累積證據。
+兩個方向相差 130 度，是兩個不同物體，不是同一個 UAP 5 分鐘後被重新觀測。這呼應 [#070 D61](../070-dow_uap_d61_mission_report_persian_gulf_aug_2020/report.md) 的 FORMATION 加 [#047 D3](../047-dow_uap_d3_mission_report_arabian_gulf_2020/report.md) 的 4 個 UAP（含 2 個 side-by-side），D 系列「同戰區同任務段多個 UAP」的累積證據。
 
 ## 為什麼 D64 換到 ACC + 379 AEW + AH_GMESH_VORTEX
 
@@ -140,7 +140,7 @@ D62 / D63 的 MAJCOM 都是 AFCENT。D64 改成 ACC（Air Combat Command），ap
 
 ## 相關案件
 
-- [#072 D63 荷莫茲 2020-10-01](../147-dow_uap_d63_mission_report_strait_of_hormuz_oct_2020/report.md)：32 天前同 MQ-9 / 482 ATKS、5 次伊朗喊話、Abu Musa Island ATR 72-500 觀測。
-- [#071 D62 荷莫茲 2020-09-16](../146-dow_uap_d62_mission_report_strait_of_hormuz_sep_2020/report.md)：47 天前同 482 ATKS MQ-9、2 次 EMI 失聯加 1 UAP。
-- [#070 D61 阿拉伯灣 2020-08-27](../145-dow_uap_d61_mission_report_persian_gulf_aug_2020/report.md)：67 天前同單位、FORMATION 多個 UAP 案件。
+- [#072 D63 荷莫茲 2020-10-01](../072-dow_uap_d63_mission_report_strait_of_hormuz_oct_2020/report.md)：32 天前同 MQ-9 / 482 ATKS、5 次伊朗喊話、Abu Musa Island ATR 72-500 觀測。
+- [#071 D62 荷莫茲 2020-09-16](../071-dow_uap_d62_mission_report_strait_of_hormuz_sep_2020/report.md)：47 天前同 482 ATKS MQ-9、2 次 EMI 失聯加 1 UAP。
+- [#070 D61 阿拉伯灣 2020-08-27](../070-dow_uap_d61_mission_report_persian_gulf_aug_2020/report.md)：67 天前同單位、FORMATION 多個 UAP 案件。
 - [#047 D3 阿拉伯灣 2020](../047-dow_uap_d3_mission_report_arabian_gulf_2020/report.md)：同 AOR / AFCENT MQ-9、27 秒內 4 個 UAP，短間隔多 UAP 觀測的另一個案例。

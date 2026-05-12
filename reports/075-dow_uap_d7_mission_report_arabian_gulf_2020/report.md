@@ -121,7 +121,7 @@ D7 與 D5 都是「5/6 全黑 + 最後一頁一句 GENTEXT」，但 D7 的 GENTE
 
 ## 相關案件
 
-- [#068 D6 阿拉伯灣 2020](../143-dow_uap_d6_mission_report_arabian_gulf_2020/report.md)：D 系列另一份「6 頁全黑」案件、遮蔽程度更高（D7 還有 1 頁 GENTEXT，D6 完全沒有）。
+- [#068 D6 阿拉伯灣 2020](../068-dow_uap_d6_mission_report_arabian_gulf_2020/report.md)：D 系列另一份「6 頁全黑」案件、遮蔽程度更高（D7 還有 1 頁 GENTEXT，D6 完全沒有）。
 - [#054 D4 阿拉伯灣 2020](../054-dow_uap_d4_mission_report_arabian_gulf_2020/report.md)：D 系列另一份「4/5 頁全黑」+ PILOT 短暫觀測 321 KTS UAP。
 - [#059 D5 阿拉伯灣 2020](../059-dow_uap_d5_mission_report_arabian_gulf_2020/report.md)：D 系列「5/6 頁全黑」+ 跨時段雙 UAP，與 D7 結構幾乎相同。
 - [#040 D19 敘利亞 2023-02-21](../040-dow_uap_d19_mission_report_syria_february_2023/report.md)：D 系列**另一份明確 F-15E 二機編隊**觀測 3 UAP + MFT 雷達干擾，與 D7 共構「戰機 + UAP」敘事線。

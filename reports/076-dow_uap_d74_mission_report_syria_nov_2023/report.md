@@ -100,7 +100,7 @@ D74 用了完整 41 欄 UAP 資料卡格式，把所有欄位列出：
 
 「形似彈跳球」的 UAP 描述在 D 系列出現過 3 次：
 
-- [#075 D7](../150-dow_uap_d7_mission_report_arabian_gulf_2020/report.md)：LOOKS LIKE A BALLOON, SIMILAR TO PREVIOUSLY REPORTED UAP FROM 48FW（2020 阿拉伯灣，31,000 ft，wind-driven）
+- [#075 D7](../075-dow_uap_d7_mission_report_arabian_gulf_2020/report.md)：LOOKS LIKE A BALLOON, SIMILAR TO PREVIOUSLY REPORTED UAP FROM 48FW（2020 阿拉伯灣，31,000 ft，wind-driven）
 - [#053 D38](../053-dow_uap_d38_range_fouler_debrief_middle_east_may_2020/report.md)：ROUND 加 ATFLIR solid white（2020-05-14 波斯灣 F/A-18）
 - D74：BOUNCY BALL 加 424 KN consistent 加 drops altitude 加 7 min
 
@@ -183,7 +183,7 @@ D74 的解密推薦者是 Tegtmeier，與 D62 / D63 / D64 / D65 的 Harrison（M
 
 ## 相關案件
 
-- [#075 D7 阿拉伯灣 2020](../150-dow_uap_d7_mission_report_arabian_gulf_2020/report.md)：Balloon-shaped UAP 加 31,000 ft 加 wind-driven，是 D74「bouncy ball」shape 的前期案例。
+- [#075 D7 阿拉伯灣 2020](../075-dow_uap_d7_mission_report_arabian_gulf_2020/report.md)：Balloon-shaped UAP 加 31,000 ft 加 wind-driven，是 D74「bouncy ball」shape 的前期案例。
 - [#053 D38 波斯灣 2020-05-14](../053-dow_uap_d38_range_fouler_debrief_middle_east_may_2020/report.md)：F/A-18 ATFLIR ROUND 加 solid white，圓形 UAP 觀測。
 - [#048-050 D32 敘利亞 2024-10-20](../048_049_050-dow_uap_d32_mission_report_syria_october_2024/report.md)：同戰區 AFSOC 12 SOS MQ-9 觀測 plasma UAP，與 D74 相隔約 11 個月。
 - [#040 D19 敘利亞 2023-02-21](../040-dow_uap_d19_mission_report_syria_february_2023/report.md)：同國家、9 個月前 F-15E 二機編隊觀測 3 UAP。

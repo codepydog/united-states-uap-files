@@ -143,7 +143,7 @@ Fravor 2004 Tic Tac 描述「向上加速消失」也是「比眼睛能跟上的
 
 ## 相關案件
 
-- [#066 D57 亞丁灣 2020-09](../141-dow_uap_d57_range_fouler_gulf_of_aden_sep_2020/report.md)：1 個月前的 MQ-9 觀測。
-- [#065 D56 北阿拉伯海 2020-08](../140-dow_uap_d56_range_fouler_arabian_sea_aug_2020/report.md)：2 個月前的 MH-60R 編隊觀測。
+- [#066 D57 亞丁灣 2020-09](../066-dow_uap_d57_range_fouler_gulf_of_aden_sep_2020/report.md)：1 個月前的 MQ-9 觀測。
+- [#065 D56 北阿拉伯海 2020-08](../065-dow_uap_d56_range_fouler_arabian_sea_aug_2020/report.md)：2 個月前的 MH-60R 編隊觀測。
 - [#047 D3 阿拉伯灣 2020](../047-dow_uap_d3_mission_report_arabian_gulf_2020/report.md)：D 系列另一份 F/A-18 多物體互動。
 - [#055 D42 日本 2023](../055-dow_uap_d42_range_fouler_debrief_japan_2023/report.md)：3 年後的 range fouler debrief，措辭升級。

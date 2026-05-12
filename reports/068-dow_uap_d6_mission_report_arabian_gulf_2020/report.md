@@ -102,7 +102,7 @@ D6 是這個光譜的極端端點。
 
 ## 相關案件
 
-- [#067 D58 NA 2020-10](../142-dow_uap_d58_range_fouler_na_oct_2020/report.md)：另一份地點 NA 的高敏感報告，但內容遠比 D6 完整。
-- [#066 D57 亞丁灣 2020-09](../141-dow_uap_d57_range_fouler_gulf_of_aden_sep_2020/report.md)：MQ-9 8 分鐘觀測。
+- [#067 D58 NA 2020-10](../067-dow_uap_d58_range_fouler_na_oct_2020/report.md)：另一份地點 NA 的高敏感報告，但內容遠比 D6 完整。
+- [#066 D57 亞丁灣 2020-09](../066-dow_uap_d57_range_fouler_gulf_of_aden_sep_2020/report.md)：MQ-9 8 分鐘觀測。
 - [#047 D3 阿拉伯灣 2020](../047-dow_uap_d3_mission_report_arabian_gulf_2020/report.md)：同地區、同年份，narrative 完整 D 系列代表案。
 - [#054 D4 阿拉伯灣 2020](../054-dow_uap_d4_mission_report_arabian_gulf_2020/report.md)：D 系列阿拉伯灣家族另一份。

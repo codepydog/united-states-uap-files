@@ -118,6 +118,6 @@ WAP 可能是 vessel pennant 或 hull class designator，具體含義不明。
 
 ## 相關案件
 
-- [#069 D60 阿拉伯灣 2020-08-08](../144-dow_uap_d60_mission_report_persian_gulf_aug_2020/report.md)：19 天前同單位的 1 個物體 TRANSITTING。
-- [#066 D57 亞丁灣 2020-09](../141-dow_uap_d57_range_fouler_gulf_of_aden_sep_2020/report.md)：另一份 MQ-9 觀測（172 ATKS）。
-- [#065 D56 北阿拉伯海 2020-08-24](../140-dow_uap_d56_range_fouler_arabian_sea_aug_2020/report.md)：直升機 + 雲層 + 編隊出現（同樣的 cloud-related signature 模式）。
+- [#069 D60 阿拉伯灣 2020-08-08](../069-dow_uap_d60_mission_report_persian_gulf_aug_2020/report.md)：19 天前同單位的 1 個物體 TRANSITTING。
+- [#066 D57 亞丁灣 2020-09](../066-dow_uap_d57_range_fouler_gulf_of_aden_sep_2020/report.md)：另一份 MQ-9 觀測（172 ATKS）。
+- [#065 D56 北阿拉伯海 2020-08-24](../065-dow_uap_d56_range_fouler_arabian_sea_aug_2020/report.md)：直升機 + 雲層 + 編隊出現（同樣的 cloud-related signature 模式）。
