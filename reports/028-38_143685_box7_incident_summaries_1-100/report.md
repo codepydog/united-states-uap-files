@@ -289,7 +289,7 @@ Mantell 在 1500 左右失事身亡後，當天晚上 1930 EST，Clinton County 
 
 ![p-078](p-078.jpg)
 
-Godman Field 控制塔當天的通訊紀錄 — Mantell 編號 NG 869、Col Hix、Lt Orner、S/Sgt Quinton A. Blackwell、Capt Cary V. Carter 的觀察與通訊：
+Godman Field 控制塔當天的通訊紀錄：Mantell 編號 NG 869、Col Hix、Lt Orner、S/Sgt Quinton A. Blackwell、Capt Cary V. Carter 的觀察與通訊：
 
 > Col Hix's account. NG 869: "Object traveling at 160 MPH - half my speed"
 > Lt Orner's account. NG 869: [...] at altitude of [...] and traveling about 1/2 [...]
@@ -342,10 +342,10 @@ Project Sign 把 Mantell 事件本身與當天的其他目擊報告分開歸入 
 > 5. 職業 NAS 員工 / 司法部移民局
 > 7. 觀察地點 家中床上
 > 8. 物體數量 1
-> 11. 高度 未述 — 它看似掉落在鄰近其住宅的田裡
+> 11. 高度 未述（它看似掉落在鄰近其住宅的田裡）
 > 13. 飛行方向 朝地面
 > 14. 機動 「旋轉」
-> 16. 尺寸 大型 — 直徑 26 至 30 英寸
+> 16. 尺寸 大型（直徑 26 至 30 英寸）
 > 17. 顏色 火焰色
 > 18. 形狀 圓形
 

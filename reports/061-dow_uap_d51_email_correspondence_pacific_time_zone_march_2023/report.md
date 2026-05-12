@@ -5,7 +5,7 @@
 | 報告類型 | **Email Correspondence**（內含 IIR derivative classification review summary）|
 | 識別碼 | DOW-UAP-D51 |
 | 日期 | **2023 年 3 月某日**（具體日期遮蔽） |
-| **位置** | **Pacific Time Zone（太平洋時區）** — 加州 / 奧勒岡 / 華盛頓州或太平洋夏威夷時區 |
+| **位置** | **Pacific Time Zone（太平洋時區）**：加州 / 奧勒岡 / 華盛頓州或太平洋夏威夷時區 |
 | **時段** | **Night（夜間）** |
 | **持續時間** | **約 8 分鐘** |
 | **觀測者類型** | **CIVILIAN（民間人士）** ← **D 系列首份非軍方人員觀測** |

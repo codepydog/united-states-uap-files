@@ -20,7 +20,7 @@
 
 兩天前，2001-10-28 與 10-29，Georgia 政府指控俄羅斯戰機越境轟炸 Kodori Gorge（Abkhazia 邊境的 Georgian 政府控制區）。Vershbow 大使隔天找俄羅斯外交部對質。Georgia 桌主任 Tereoken 否認俄機越境，加了一句話：「reports of planes in the area might as well have been about UFOs」。意思是：那些飛機目擊報告也可能是飛碟，言下之意荒謬到不需要回應。莫斯科「沒有技術能力」確認該區域是否有外國飛機，「任何一方」都有可能派飛機飛過去。
 
-Vershbow 在 COMMENT 段直接點破：「TO POSIT THAT THEY COULD BE UFOS WOULD BE HUMOROUS IF IT WERE NOT FOR THE SERIOUSNESS OF THE VIOLATIONS.」這份電報沒有 UFO 目擊內容，但被 War Department 2026-05-08 釋出包以「UFO」關鍵字撈出來，列入 161 份 UAP 檔案的一份。這份檔案對 UAP 研究的價值在於兩個方向：一是顯示國務院 UAP 檔案分類的鬆散性（關鍵字檢索把「UFO 修辭比喻」與「真實 UFO 目擊」混在一起），二是側錄 2001 年 Russia-Georgia 危機背景下俄方否認術的歷史定型。
+Vershbow 在 COMMENT 段直接點破：「TO POSIT THAT THEY COULD BE UFOS WOULD BE HUMOROUS IF IT WERE NOT FOR THE SERIOUSNESS OF THE VIOLATIONS.」這份電報沒有 UFO 目擊內容，但被 2026-05-08 War Department UFO release 以「UFO」關鍵字撈出來，列為當批公開檔案之一。這份檔案對 UAP 研究的價值在於兩個方向：一是顯示國務院 UAP 檔案分類的鬆散性（關鍵字檢索把「UFO 修辭比喻」與「真實 UFO 目擊」混在一起），二是側錄 2001 年 Russia-Georgia 危機背景下俄方否認術的歷史定型。
 
 ## 1. 政治背景
 
@@ -50,7 +50,7 @@ Vershbow 直接點破：俄方的「UFO」說法是 bold lie，而非真實 UFO 
 
 ## 4. 觀察
 
-**(1) UAP 檔案分類的鬆散性**：War Department 2026-05-08 釋出 161 份「UAP 檔案」中，有部分（如本檔案）實際上不是 UFO 目擊報告，而是政治外交電報中包含「UFO」一詞的記錄。當建立 UAP 檔案系統時，關鍵字搜索的精確度問題。
+**(1) UAP 檔案分類的鬆散性**：2026-05-08 War Department UFO release 公開的「UAP 檔案」中，有部分（如本檔案）實際上不是 UFO 目擊報告，而是政治外交電報中包含「UFO」一詞的記錄。當建立 UAP 檔案系統時，關鍵字搜索的精確度問題。
 
 **(2) 俄方否認術的歷史定型**：Tereoken 把問題「降級成 UFO 假設」的修辭手法，在 2001 之後成為俄方對國際指控的常見回應方式。2014 Crimea 入侵期間「小綠人」（little green men）的否認、2018 Skripal 案的「否認 GRU 涉入」、2022 Bucha 大屠殺的否認，都採用類似的「對方指控荒謬」修辭結構。
 
@@ -58,7 +58,7 @@ Vershbow 直接點破：俄方的「UFO」說法是 bold lie，而非真實 UFO 
 
 ## 5. 跨檔案連結
 
-- **[#152 State Department UAP Cable 2, Kazakhstan, 1994-01-31](https://www.war.gov/UFO/#State%20Department%20UAP%20Cable%202,%20Kazakhstan,%20January%2031,%201994)**：UAP Cable 系列的第二份（本檔案是第三份），未在本批 URL 解析中找到。
+- **[#152 State Department UAP Cable 2, Kazakhstan, 1994-01-31](https://www.war.gov/UFO/#State%20Department%20UAP%20Cable%202,%20Kazakhstan,%20January%2031,%201994)**：UAP Cable 系列的第二份（本檔案是第三份）。
 - **[#154 State Department UAP Cable 4, Ashgabat 2004](../154-state_dept_uap_cable_4_ashgabat_2004/report.md)**：類似的「UFO 命名 + 非 UFO 內容」案例（Turkmenistan UFOlogists NGO）。
 - **[#155 State Department UAP Cable 5, Mexico 2023](../155-state_dept_uap_cable_5_mexico_2023/report.md)**：實質性 UAP 內容（Jaime Maussan + Ryan Graves 在墨西哥國會證詞）。
 

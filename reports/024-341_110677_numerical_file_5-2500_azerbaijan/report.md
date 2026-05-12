@@ -3,7 +3,7 @@
 | 欄位 | 內容 |
 |---|---|
 | 檔案編號 | 341_110677_Numerical_File,_5-2500 |
-| 來源機關 | US Air Attache, Prague (USAIRA Prague) — Lt Col Thomas S. Ryan |
+| 來源機關 | US Air Attache, Prague (USAIRA Prague)，Lt Col Thomas S. Ryan |
 | 報告編號 | IR 193-55 |
 | 收集日期 | 1955-10-13（Prague 訪談） |
 | 報告日期 | 1955-10-14 |
@@ -197,9 +197,9 @@ debriefing 之後 Ryan 在報告中明確說明：
 
 ![p-09](p-09.jpg)
 
-**Part B — Baku**：火車站外長串平車載運排級登陸艇（用帆布蓋住），士兵穿著 Hathaway 不認得的特殊制服。
+**Part B（Baku）**：火車站外長串平車載運排級登陸艇（用帆布蓋住），士兵穿著 Hathaway 不認得的特殊制服。
 
-**Part C — Dnepropetrovsk 機場**：草坪跑道。停機坪用八角形磚塊配瀝青縫舖設。停了 42 架「短粗噴射戰機」，Hathaway 詳細比對 MiG-15（Fagot）等比模型後否決，認為這比 Fagot 短粗、副翼位置不同、座艙更前置，他傾向認為這是 SRX composite 型（USAF 情報界當時對某型蘇聯試驗戰機的代號）。
+**Part C（Dnepropetrovsk 機場）**：草坪跑道。停機坪用八角形磚塊配瀝青縫舖設。停了 42 架「短粗噴射戰機」，Hathaway 詳細比對 MiG-15（Fagot）等比模型後否決，認為這比 Fagot 短粗、副翼位置不同、座艙更前置，他傾向認為這是 SRX composite 型（USAF 情報界當時對某型蘇聯試驗戰機的代號）。
 
 ![p-06](p-06.jpg)
 
@@ -212,9 +212,9 @@ debriefing 之後 Ryan 在報告中明確說明：
 - 低位水平尾翼
 - 機尾鼓出一個「銀色（非玻璃）凸起」
 
-**Part D — 莫斯科外的雷達站**：Moscow → Minsk 公路 42 公里標記處右側 200-250 碼，有兩具雷達。從 Hathaway 的草圖暫時識別為一具 Woodgage（或 Gage）+ 一具方型 Freja 型。
+**Part D（莫斯科外的雷達站）**：Moscow → Minsk 公路 42 公里標記處右側 200-250 碼，有兩具雷達。從 Hathaway 的草圖暫時識別為一具 Woodgage（或 Gage）+ 一具方型 Freja 型。
 
-**Part E — Tiflis 直升機 + Egorov 相遇**：
+**Part E（Tiflis 直升機 + Egorov 相遇）**：
 - Tiflis 看到「香蕉型」雙旋翼直升機（雙端各一主旋翼，比美國同類機型多很多窗戶），對應蘇聯 Yak-24 級。
 - 在 Tiflis → Sochi 黑海段火車上，遇到 55 歲俄國人 Egorov，自稱是 1935 或 1936 年第一批跨北極飛行的試驗飛行員之一（這指 1936-37 年 Chkalov / Levanevsky / Gromov 那批 ANT-25 跨北極飛行），現已退休。Egorov 自稱二戰擊落 17 架德機。Russell 邀他訪美。Ryan 評語：
 
@@ -224,7 +224,7 @@ debriefing 之後 Ryan 在報告中明確說明：
 
 也就是 USAIRA 對「Egorov 是 KGB 派來監視 Russell 一行的退休偽裝者」這條解釋保持開放。
 
-**Part F — COP 邊境**：詳細記錄了 Russian broad gauge → Czech standard gauge 的鐵路換軌操作。Hathaway 畫了完整圖（page 9 of 9）：俄方寬軌轉換到捷方標準軌的建築物剖面、地坑、地板活門、紅星標誌（蘇聯邊境官方標記）。
+**Part F（COP 邊境）**：詳細記錄了 Russian broad gauge → Czech standard gauge 的鐵路換軌操作。Hathaway 畫了完整圖（page 9 of 9）：俄方寬軌轉換到捷方標準軌的建築物剖面、地坑、地板活門、紅星標誌（蘇聯邊境官方標記）。
 
 ![p-10](p-10.jpg)
 

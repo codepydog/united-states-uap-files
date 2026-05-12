@@ -211,7 +211,7 @@ Hoover letterhead、簽名、Bufiles 附註欄與其他公開卷一致。von Bra
 
 Bufiles「無紀錄」是常見 boilerplate 回覆，不必然代表 FBI 真查過該組織。FBI 為什麼把《UFO Contact》這類民間雜誌剪進案卷？卷內沒有經辦人簽收章，動機不明。
 
-與本批 release 其他卷宗的連結：
+與 War Department 2026 UFO release 其他卷宗的連結：
 
 - FBI 62-HQ-83894 Section 2 (#002) 收 1947 飛碟潮起源（Arnold + Rhodes + FBI 內部 Army 實驗假設）
 - FBI 62-HQ-83894 完整案卷跨 21 年（1947-06 至 1968-07），Section 10 是末段

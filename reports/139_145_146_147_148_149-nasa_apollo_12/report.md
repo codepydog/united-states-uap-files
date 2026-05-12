@@ -246,7 +246,7 @@ CSM tracking light 是引導 LM rendezvous 的 60-cycle 紅色信號燈。Conrad
 
 DOW 在 transcript 上沒做螢光標記，但抽出這兩段（Bean AOT + Conrad tracking light）做為 NASA-UAP-D1 的核心內容，等於是事後追認：這兩段紀錄屬於 UAP file。
 
-與本批 release 其他 NASA 卷宗的連結：
+與 War Department 2026 UFO release 其他 NASA 卷宗的連結：
 
 - Apollo 11 (#141) Aldrin 1969-07 看到 cabin 內 flashes，4 個月後 Bean 1969-11 看到 LM 外 particles，是同一年 Apollo 計畫從艙內擴展到艙外的觀察延伸
 - Apollo 17 (#150) VM6 三點藍光與 VM1-5 屬同類「月面 panorama 框出不明點」現象

@@ -1,5 +1,37 @@
+# Media
 source.mp4
 *.mp4
+
+# OS
 .DS_Store
+
+# Large source PDFs (kept locally only)
 reports/033-65_hs1-834228961_62-hq-83894_section_1/source.pdf
 reports/034-65_hs1-834228961_62-hq-83894_section_8/source.pdf
+
+# Editor / OS scratch
+*.swp
+*.tmp
+*.log
+*.bak
+
+# Internal coordination (audit / review workspaces)
+_review/
+audit*.json
+manifest*.json
+verify*.md
+
+# Env / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+.pytest_cache/
+
+# Node
+node_modules/

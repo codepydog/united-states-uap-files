@@ -18,8 +18,8 @@
 
 回答這些問題的兩份規範：
 
-1. **1948-02-06** — USAF 總部對所有指揮部發布指令：任何飛碟相關資訊，直接送 AMC Wright-Patterson，attention: SD（Saucer Division）。不走一般通信渠道。
-2. **1948-11-02** — Flight Service Regulation (FSR) 200-4：標準化「Unidentified Flying Objects」事件報告格式。20 個項目（形狀、尺寸、顏色、速度、航向、機動性、高度、聲音、尾流、見證者背景、雷達確認、…），由各地 Flight Service Center 負責蒐集和上報。
+1. **1948-02-06**：USAF 總部對所有指揮部發布指令，任何飛碟相關資訊，直接送 AMC Wright-Patterson，attention: SD（Saucer Division）。不走一般通信渠道。
+2. **1948-11-02**：Flight Service Regulation (FSR) 200-4，標準化「Unidentified Flying Objects」事件報告格式。20 個項目（形狀、尺寸、顏色、速度、航向、機動性、高度、聲音、尾流、見證者背景、雷達確認、…），由各地 Flight Service Center 負責蒐集和上報。
 
 這份檔案是 FSR 200-4 機制運轉的第一個完整週期（1948-12 → 1950-01）所累積的事件彙編，由 Lowry Flight Service Center（科羅拉多 Denver）1950-01-09 結卷上呈 AMC。共 143 頁，覆蓋 30+ 起目擊報告，跨美國本土、紐芬蘭、夏威夷、日本。
 
@@ -261,7 +261,7 @@ V-173 是 Chance-Vought 公司 1942 年的圓盤型實驗機原型（綽號「Fl
 
 **(5) Chance-Vought 對照圖的隱含意義**：1948-49 年的調查員手上有「已知圓盤型」基準圖。這個基準圖的存在說明 AMC 在判別目擊時的工程嚴謹度：他們不直接把「圓盤」歸類為「不可能」，而是先和已知圓盤型量產載具比對，再做差異化分析。
 
-**(6) 地理分布**：本份檔案的案件覆蓋美國本土多州（CA, WA, ID, IL, MA, MO, PA, AL, SC 等）+ 加拿大 Goose Bay + 紐芬蘭 St Johns + 夏威夷 Hickam + 日本中央 — 美軍駐地的全球觸角第一次完整地把飛碟資料蒐集系統打開來。
+**(6) 地理分布**：本份檔案的案件覆蓋美國本土多州（CA, WA, ID, IL, MA, MO, PA, AL, SC 等）+ 加拿大 Goose Bay + 紐芬蘭 St Johns + 夏威夷 Hickam + 日本中央，美軍駐地的全球觸角第一次完整地把飛碟資料蒐集系統打開來。
 
 ## 13. 跨檔案連結
 

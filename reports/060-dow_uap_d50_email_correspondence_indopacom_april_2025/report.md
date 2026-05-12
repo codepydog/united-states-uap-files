@@ -81,7 +81,7 @@ USD(I&S) Information Disclosure Analyst 確認回覆：
 
 ![p-02](p-02.jpg)
 
-### UAP #1 — 10APR25 23:53Z
+### UAP #1：10APR25 23:53Z
 
 ```
 //UNCLASSIFIED//
@@ -94,7 +94,7 @@ ALTITUDE AND UNK SPEED, NO INTERFERENCE WAS NOTED.
 
 > 「美軍飛機在 2025-04-10 23:53Z 觀測 1 個 POSS UAP **持續 12 秒**，飛行高度與速度皆未知（UNK），**未注意到干擾**（NO INTERFERENCE WAS NOTED）。」
 
-### UAP #2 — 11APR25 00:07Z
+### UAP #2：11APR25 00:07Z
 
 ```
 //UNCLASSIFIED//
@@ -107,7 +107,7 @@ ALTITUDE AND UNK SPEED, NO INTERFERENCE WAS NOTED.
 
 > 「美軍飛機在 2025-04-11 00:07Z 觀測 1 個 POSS UAP **持續 23 秒**，飛行高度與速度皆未知（UNK），**未注意到干擾**。」
 
-## 3. 14 分鐘間隔雙 UAP — D 系列 INDOPACOM 首例
+## 3. 14 分鐘間隔雙 UAP：D 系列 INDOPACOM 首例
 
 兩筆觀測相隔 **14 分鐘**（23:53Z 到 00:07Z 跨日），同 US AIRCRAFT 觀測者。可能解讀：
 
